@@ -24,15 +24,15 @@ In diesem Video erfährst du:
 
 ⏱ Kapitel: *(Главы:)*
 00:00 Gleis 7 *(Путь 7)*
-01:12 Felix *(Феликс)*
-03:18 Die Zahlen erscheinen *(Появляются числа)*
-05:06 Die lustige Seite *(Смешная сторона)*
-07:04 Die kleinen Zahlen *(Маленькие числа)*
-09:25 Der umgeleitete Zug *(Поезд в объезд)*
-11:18 Das Experiment *(Эксперимент)*
-14:12 Die Eins *(Единица)*
-17:18 Epilog *(Эпилог)*
-18:36 Ist das möglich? *(Возможно ли это?)*
+01:09 Felix *(Феликс)*
+03:08 Die Zahlen erscheinen *(Появляются числа)*
+05:00 Die lustige Seite *(Смешная сторона)*
+07:00 Die kleinen Zahlen *(Маленькие числа)*
+09:17 Der umgeleitete Zug *(Поезд в объезд)*
+11:04 Das Experiment *(Эксперимент)*
+13:56 Die Eins *(Единица)*
+16:54 Epilog *(Эпилог)*
+18:11 Ist das möglich? *(Возможно ли это?)*
 
 💬 Welche Zahl würde über deiner Mutter stehen? Schreib sie in die Kommentare.
 *(Какое число стояло бы над твоей мамой? Напиши его в комментариях.)*
@@ -44,7 +44,7 @@ Diese Geschichte ist frei erfunden. Personen und Handlung sind fiktiv. Die wisse
 
 #WasWäreWenn #Gedankenexperiment #Animation
 
-> ⚠️ Главы рассчитаны по примерному темпу. После озвучки пересчитаю их под реальный голос.
+> ✅ Главы пересчитаны по реальной озвучке (19:32).
 
 ## Теги
 was wäre wenn, wie oft siehst du deine eltern noch, zahl über dem kopf, gedankenexperiment, animation deutsch, the tail end, harvard glücksstudie, freundschaft, eltern besuchen, was wäre wenn deutsch

@@ -10,25 +10,25 @@
 | № | Файл | Начало | Длит. | Озвучка | Кадр |
 |---|---|---|---|---|---|
 | 1 | 001_00-00 | 00:00.0 | 3.5 с | Hamburg Hauptbahnhof, Gleis sieben. Dreiundzwanzig Uhr elf. Du rennst | Night, Hamburg Hauptbahnhof: departure board showing "Gleis 7" and "23:11", Felix sprinting down the stairs. |
-| 2 | 002_00-03 | 00:03.5 | 3.5 с | die Treppe hinunter, drei Stufen auf einmal, und dein | Close-up of running feet taking three steps at once on station stairs, motion lines. |
-| 3 | 003_00-06 | 00:06.9 | 3.5 с | Rucksack schlägt dir bei jedem Schritt gegen den Rücken. | Felix running along the platform from behind, backpack bouncing against his back. |
-| 4 | 004_00-10 | 00:10.4 | 2.7 с | Am Ende des Bahnsteigs steht Ben. Dein | Far end of a night train platform: Ben standing alone next to an open white ICE train door. |
-| 5 | 005_00-13 | 00:13.1 | 2.7 с | bester Freund. Seit dem Kindergarten. Mit zwei | Ben with two huge suitcases, wearing a thick winter jacket, sweating slightly. |
-| 6 | 006_00-15 | 00:15.8 | 2.7 с | riesigen Koffern und einer Winterjacke, die viel | Flashback in warm sepia: two little kids in a kindergarten playground, one of them Ben. |
-| 7 | 007_00-18 | 00:18.5 | 2.7 с | zu warm ist für Hamburg im Juni. | Medium shot of Ben looking down at his phone under platform lights. |
-| 8 | 008_00-21 | 00:21.2 | 3.5 с | Und über seinem Kopf leuchtet eine kleine weiße Zahl. | Close-up of Ben: a small glowing white number tag floating above the head, number spelled exactly "1". |
-| 9 | 009_00-24 | 00:24.7 | 1.6 с | Eins. | Extreme close-up of a glowing white number tag spelled exactly "1" against the dark station. |
-| 10 | 010_00-26 | 00:26.3 | 3.0 с | Diese Zahl bedeutet, wie oft du diesen Menschen | Explainer: a dotted line connects Felix and Ben, a white tag "1" above Ben. |
-| 11 | 011_00-29 | 00:29.3 | 3.0 с | in deinem Leben noch treffen wirst. Einmal. | An hourglass with almost no sand left next to Ben's silhouette on the platform. |
-| 12 | 012_00-32 | 00:32.2 | 3.0 с | Jetzt. Hier. Auf diesem Bahnsteig. Danach nie wieder. | Station clock showing 23:11, second hand moving. |
-| 13 | 013_00-35 | 00:35.2 | 3.5 с | Ben sieht dich nicht. Er schaut auf sein Handy. | Ben scrolling his phone, wearing big white over-ear headphones, not noticing anything. |
-| 14 | 014_00-38 | 00:38.7 | 3.5 с | Die Türen des Zuges stehen offen. Noch eine Minute. | Open ICE train door with a red closing light starting to blink. |
-| 15 | 015_00-42 | 00:42.1 | 3.1 с | Zwischen dir und ihm liegen noch fünfzig Meter, | Wide shot: Felix far away at one end of the platform, a luggage cart and a school class in between. |
-| 16 | 016_00-45 | 00:45.2 | 3.1 с | ein Gepäckwagen und eine Schulklasse auf Klassenfahrt. Du | A school class of kids with backpacks blocking the platform, a tired teacher counting them. |
-| 17 | 017_00-48 | 00:48.3 | 3.1 с | rufst seinen Namen. Er hört dich nicht. Er | Felix shouting a name with hands around his mouth, sound waves. |
-| 18 | 018_00-51 | 00:51.4 | 3.1 с | hat Kopfhörer auf. Natürlich hat er Kopfhörer auf. | Close-up of Ben's big white over-ear headphones, music notes floating, he hears nothing. |
+| 2 | 002_00-03 | 00:03.5 | 3.5 с | die Treppe hinunter, drei Stufen auf einmal, und dein | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: close-up of running feet taking three steps at once on station stairs, motion lines. |
+| 3 | 003_00-06 | 00:06.9 | 3.5 с | Rucksack schlägt dir bei jedem Schritt gegen den Rücken. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: felix running along the platform from behind, backpack bouncing against his back. |
+| 4 | 004_00-10 | 00:10.4 | 2.7 с | Am Ende des Bahnsteigs steht Ben. Dein | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: far end of a night train platform: Ben standing alone next to an open white ICE train door. |
+| 5 | 005_00-13 | 00:13.1 | 2.7 с | bester Freund. Seit dem Kindergarten. Mit zwei | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: ben with two huge suitcases, wearing a thick winter jacket, sweating slightly. |
+| 6 | 006_00-15 | 00:15.8 | 2.7 с | riesigen Koffern und einer Winterjacke, die viel | Flashback in warm sepia: two little 3-year-old kids playing together in a kindergarten playground. |
+| 7 | 007_00-18 | 00:18.5 | 2.7 с | zu warm ist für Hamburg im Juni. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: medium shot of Ben looking down at his phone under platform lights. |
+| 8 | 008_00-21 | 00:21.2 | 3.5 с | Und über seinem Kopf leuchtet eine kleine weiße Zahl. | Close-up of Ben at night on the Hamburg station platform; a small glowing white number tag floating in the air ABOVE his head (not on his body), number spelled exactly "1". |
+| 9 | 009_00-24 | 00:24.7 | 1.6 с | Eins. | Night, Hamburg station platform: extreme close-up of a small glowing white number tag floating in the dark air, spelled exactly "1", blurred platform lights behind. |
+| 10 | 010_00-26 | 00:26.3 | 3.0 с | Diese Zahl bedeutet, wie oft du diesen Menschen | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: explainer: a dotted line connects Felix and Ben, a white tag "1" above Ben. |
+| 11 | 011_00-29 | 00:29.3 | 3.0 с | in deinem Leben noch treffen wirst. Einmal. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: an hourglass with almost no sand left next to Ben's silhouette on the platform. |
+| 12 | 012_00-32 | 00:32.2 | 3.0 с | Jetzt. Hier. Auf diesem Bahnsteig. Danach nie wieder. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: big station clock showing exactly "23:11", second hand moving. |
+| 13 | 013_00-35 | 00:35.2 | 3.5 с | Ben sieht dich nicht. Er schaut auf sein Handy. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: ben scrolling his phone, wearing big white over-ear headphones, not noticing anything. |
+| 14 | 014_00-38 | 00:38.7 | 3.5 с | Die Türen des Zuges stehen offen. Noch eine Minute. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: open ICE train door with a red closing light starting to blink. |
+| 15 | 015_00-42 | 00:42.1 | 3.1 с | Zwischen dir und ihm liegen noch fünfzig Meter, | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: wide shot: Felix far away at one end of the platform, a luggage cart and a school class in between. |
+| 16 | 016_00-45 | 00:45.2 | 3.1 с | ein Gepäckwagen und eine Schulklasse auf Klassenfahrt. Du | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: a school class of kids with backpacks blocking the platform, a tired teacher counting them. |
+| 17 | 017_00-48 | 00:48.3 | 3.1 с | rufst seinen Namen. Er hört dich nicht. Er | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: felix shouting a name with hands around his mouth, sound waves. |
+| 18 | 018_00-51 | 00:51.4 | 3.1 с | hat Kopfhörer auf. Natürlich hat er Kopfhörer auf. | Night, on a platform inside Hamburg Hauptbahnhof train station, dark sky, platform lights: close-up of Ben's big white over-ear headphones, music notes floating, he hears nothing. |
 | 19 | 019_00-54 | 00:54.5 | 3.4 с | Vor drei Monaten hättest du über so etwas gelacht. | Felix laughing dismissively in a bright office, a thought bubble with a number above a head crossed out. |
-| 20 | 020_00-57 | 00:57.9 | 3.4 с | Vor drei Monaten wusstest du nicht einmal, dass Ben | Ben smiling and keeping a secret, a hidden plane ticket in his back pocket. |
+| 20 | 020_00-57 | 00:57.9 | 3.4 с | Vor drei Monaten wusstest du nicht einmal, dass Ben | Evening in a cozy Hamburg pub: Ben smiling and keeping a secret, a plane ticket peeking out of his back pocket. |
 | 21 | 021_01-01 | 01:01.3 | 3.4 с | weggeht. Und vor drei Monaten hättest du nie | Mama Sabine smiling warmly; a small glowing white number tag floating above the head spelled exactly "9", ominous blue glow. |
 | 22 | 022_01-04 | 01:04.6 | 3.4 с | gedacht, dass über deiner eigenen Mutter eine Neun steht. | A clock spinning backwards with rewind arrows, motion blur. |
 | 23 | 023_01-08 | 01:08.0 | 4.2 с | Lass uns zurückspulen. Zu dem Dienstag, an dem die Zahlen kamen. | Title card spelled exactly "3 MONATE VORHER" over a sunny Hamburg harbour skyline with cranes. |
@@ -65,9 +65,9 @@
 | 49 | 049_02-24 | 02:24.1 | 3.3 с | Arbeit. Mama hat gesagt: „Kein Problem, Schatz.“ Mütter sagen | Mama Sabine smiling bravely on the phone, speech bubble spelled exactly "Kein Problem, Schatz." |
 | 50 | 050_02-27 | 02:27.4 | 3.3 с | das immer. Es ist fast nie kein Problem. | Mama Sabine after the call, alone at the kitchen table, looking at an empty chair. |
 | 51 | 051_02-30 | 02:30.6 | 2.7 с | Und dann ist da Ben. Ihr kennt | Sepia flashback: two 3-year-old kids fighting over a green toy excavator in a sandbox. |
-| 52 | 052_02-33 | 02:33.3 | 2.7 с | euch, seit ihr drei wart und euch | Little Ben holding the green toy excavator up high like a trophy, the other kid crying. |
+| 52 | 052_02-33 | 02:33.3 | 2.7 с | euch, seit ihr drei wart und euch | Sepia flashback: a little 3-year-old boy with black curly hair holding a green toy excavator up high like a trophy, the other kid crying. |
 | 53 | 053_02-36 | 02:36.0 | 2.7 с | im Sandkasten um denselben grünen Bagger geprügelt | Adult Ben grinning confidently with arms crossed, a small trophy icon. |
-| 54 | 054_02-38 | 02:38.7 | 2.7 с | habt. Ben hat gewonnen. Ben gewinnt immer. | Split image: kid Ben winning in the sandbox and adult Ben winning at table football. |
+| 54 | 054_02-38 | 02:38.7 | 2.7 с | habt. Ben hat gewonnen. Ben gewinnt immer. | Split image: a little boy winning in the sandbox and adult Ben winning at table football. |
 | 55 | 055_02-41 | 02:41.4 | 3.2 с | Ben ist der Typ, der immer weiß, was | Teen Ben with a helmet and blueprint, caption spelled exactly "Ingenieur". |
 | 56 | 056_02-44 | 02:44.6 | 3.2 с | er will. Er hat mit sechzehn beschlossen, Ingenieur | Ben graduating with an engineering diploma, confident. |
 | 57 | 057_02-47 | 02:47.8 | 3.2 с | zu werden, und ist es geworden. Er hat mit | Ben carrying a moving box toward a train to Hamburg, Felix following behind with his own box. |

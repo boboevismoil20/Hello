@@ -1,4 +1,4 @@
-# Промпты для анимации — видео 3, первая минута (кадры 1–22)
+# Промпты для анимации — видео 3, первая минута (кадры 1–21)
 
 **Как пользоваться:** на higgsfield.ai выберите «Image to Video», загрузите картинку кадра и вставьте промпт. Формат 16:9. Модель Seedance 2.0 Mini 720p (4 кредита за ролик 4 с, проверено на видео 2) или любая другая.
 - Минимальная длительность у большинства моделей 4 секунды. Лишнее обрезайте в монтаже до длительности кадра, указанной ниже (она примерная, после озвучки пересчитаем).
@@ -78,26 +78,22 @@
 **Prompt:** Felix slowly tilts his head up toward the space above himself, shocked, quick zoom on his face.
 *Феликс медленно поднимает голову к пространству над собой, в шоке, быстрый наезд на лицо.*
 
-### Кадр 18 — `018_00-47` · 2,3 с
+### Кадр 18 — `018_00-47` · 3,3 с
+**Prompt:** Felix slowly turns from the glass door toward the camera, the grey bubble above his head sways gently, the neon light hums.
+*Феликс медленно поворачивается от стеклянной двери к камере, серое облачко над его головой мягко покачивается, неоновая лампа гудит.*
+
+### Кадр 19 — `019_00-51` · 3,3 с
+**Prompt:** The grey speech bubble icon pulses softly and the big question mark gently bounces, background stays still.
+*Значок серого облачка мягко пульсирует, большой вопросительный знак чуть подпрыгивает, фон неподвижен.*
+
+### Кадр 20 — `020_00-54` · 3,3 с
+**Prompt:** Sand flows in the hourglass, slow push-in along the road toward the glowing question mark at its end.
+*В песочных часах сыплется песок, медленный наезд по дороге к светящемуся вопросительному знаку в её конце.*
+
+### Кадр 21 — `021_00-57` · 3,3 с
 **Prompt:** A cartoon film reel spins fast backwards with a rewind blur, light streaks.
 *Мультяшная катушка плёнки быстро крутится назад с размытием перемотки, полосы света.*
 
-### Кадр 19 — `019_00-50` · 2,7 с
-**Prompt:** The title card text gently pops in with a small bounce and stays perfectly still and readable.
-*Текст титра мягко появляется с небольшим подпрыгиванием и остаётся неподвижным и читаемым.*
-
-### Кадр 20 — `020_00-52` · 2,7 с
-**Prompt:** Felix stretches by the sunny window and yawns, curtains move gently in the breeze.
-*Феликс потягивается у солнечного окна и зевает, занавески мягко колышутся от ветерка.*
-
-### Кадр 21 — `021_00-55` · 2,7 с
-**Prompt:** The small train icon slides along the red line from Kassel to Fulda, city labels stay unchanged.
-*Маленький значок поезда скользит по красной линии от Касселя до Фульды, подписи городов не меняются.*
-
-### Кадр 22 — `022_00-57` · 2,7 с
-**Prompt:** Green hills glide past the train window, Felix leans his head against the glass and smiles calmly.
-*За окном поезда проплывают зелёные холмы, Феликс прислоняет голову к стеклу и спокойно улыбается.*
-
 ---
 
-**Стоимость анимации первой минуты:** 22 ролика × 4 кредита = **88 кредитов** (Seedance 2.0 Mini, 720p, 4 с). Можно анимировать только ключевые кадры: 1, 4, 7, 8, 10, 14, 16, 17, 20. Это 9 роликов, **36 кредитов**, остальное оставить статикой с зумом в CapCut.
+**Стоимость анимации первой минуты:** 21 ролик × 4 кредита = **84 кредита** (Seedance 2.0 Mini, 720p, 4 с). Можно анимировать только ключевые кадры: 1, 4, 7, 8, 10, 14, 16, 17, 18. Это 9 роликов, **36 кредитов**, остальное оставить статикой с зумом в CapCut.

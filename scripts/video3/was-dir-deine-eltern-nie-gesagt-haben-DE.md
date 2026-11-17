@@ -1,8 +1,8 @@
 # Was wäre, wenn du sehen könntest, was dir deine Eltern NIE gesagt haben? 💬
 *(Что, если бы ты мог видеть, что тебе НИКОГДА не говорили твои родители? 💬)*
 
-**Laufzeit:** ca. 18–19 Minuten (≈ 2 960 Wörter Sprechertext, Stimme Lukas, ElevenLabs v4)
-*(**Хронометраж:** около 18–19 минут (≈ 2 960 слов текста, голос Lukas, ElevenLabs v4))*
+**Laufzeit:** ca. 19 Minuten (≈ 3 020 Wörter Sprechertext, Stimme Lukas, ElevenLabs v4)
+*(**Хронометраж:** около 19 минут (≈ 3 020 слов текста, голос Lukas, ElevenLabs v4))*
 
 **Format:** 2D-Animation, Strichmännchen, Erzählung in der zweiten Person („du“), Präsens
 *(**Формат:** 2D-анимация, стикмены, рассказ от второго лица («ты»), настоящее время)*
@@ -44,7 +44,7 @@
 
 ---
 
-## [0:00–0:50] KALTSTART
+## [0:00–1:01] KALTSTART
 *(ХОЛОДНЫЙ СТАРТ)*
 
 [Nacht. Langer Krankenhausflur, Neonlicht. Felix steht vor einer Glastür. Dahinter liegt Papa mit Armschlinge im Bett und schläft.]
@@ -80,10 +80,10 @@ Und das Schlimmste? Über deinem eigenen Kopf hängt auch eine.
 [Spiegelung in der Glastür: über Felix' Kopf eine graue Blase. Schnitt auf Schwarz.]
 *([Отражение в стеклянной двери: над головой Феликса серое облачко. Резкий переход в чёрное.])*
 
-Aber fangen wir von vorne an.
-*(Но давай начнём сначала.)*
+Was wäre, wenn du sehen könntest, was dir deine Eltern nie gesagt haben? Bleib bis zum Ende. Dort stelle ich dir eine Frage, die du nur ehrlich beantworten kannst. Aber fangen wir von vorne an.
+*(Что, если бы ты мог видеть, что тебе никогда не говорили твои родители? Досмотри до конца. Там я задам тебе вопрос, на который можно ответить только честно. Но давай начнём сначала.)*
 
-## [0:50–2:15] FELIX
+## [1:01–2:26] FELIX
 *(ФЕЛИКС)*
 
 [Titelkarte: „DREI WOCHEN VORHER“. Kassel, sonniger Morgen, eine kleine Wohnung mit Fahrrad im Flur.]
@@ -119,7 +119,7 @@ Das denken fast alle. Vor allem in Deutschland. Hier sagt man nicht „Ich hab d
 Bis zu dem Dienstag, an dem du aufwachst und die Welt plötzlich voller Sätze ist.
 *(До того вторника, когда ты просыпаешься и мир вдруг полон фраз.)*
 
-## [2:15–4:10] DIE BLASEN
+## [2:26–4:21] DIE BLASEN
 *(ОБЛАЧКА)*
 
 [Dienstagmorgen. Felix in der Bäckerei. Über der Bäckerin schwebt eine graue Sprechblase.]
@@ -176,7 +176,7 @@ Und über deinem Vater, das siehst du am nächsten Sonntag, hängt eine der blas
 Aber dazu später. Erst einmal entdeckst du, wie lustig das Ganze sein kann.
 *(Но об этом позже. Сначала ты обнаруживаешь, каким смешным всё это может быть.)*
 
-## [4:10–6:03] DIE LUSTIGE SEITE
+## [4:21–6:14] DIE LUSTIGE SEITE
 *(СМЕШНАЯ СТОРОНА)*
 
 [Treppenhaus. Ein Nachbar mit Bohrmaschine, über ihm eine Blase.]
@@ -233,7 +233,7 @@ Und dann gibt es Menschen ohne Blase. Fremde, natürlich. Die haben dir nichts z
 Eine Woche lang ist das Leben wie eine Komödie mit Untertiteln. Dann fährst du nach Fulda. Und die Komödie hört auf.
 *(Целую неделю жизнь похожа на комедию с субтитрами. Потом ты едешь в Фульду. И комедия заканчивается.)*
 
-## [6:03–8:04] MAMA
+## [6:14–8:26] MAMA
 *(МАМА)*
 
 [Sonntag in Fulda. Ein Einfamilienhaus mit Hecke. Mama öffnet die Tür, über ihr eine graue Sprechblase.]
@@ -278,6 +278,12 @@ Die Blase leuchtet weiß auf. Und zerplatzt in tausend kleine Lichter, die über
 „Ich bin ja jetzt da“, sagst du. Und sie lacht und weint gleichzeitig, so wie nur Mütter das können.
 *(«Я ведь теперь здесь», — говоришь ты. И она смеётся и плачет одновременно, как умеют только мамы.)*
 
+[Felix schaut direkt in die Kamera. Über dem Zuschauer: leere Luft. Daneben leuchtet kurz eine kleine Abonnieren-Glocke in Form einer Sprechblase.]
+*([Феликс смотрит прямо в камеру. Над зрителем: пустой воздух. Рядом на миг загорается маленький колокольчик подписки в форме облачка.])*
+
+Über dir sehe ich übrigens keine Blase. Aber ich sehe, dass du noch nicht abonniert hast. Das lässt sich ändern. Denn die blasseste Blase von allen hängt über Papa.
+*(Над тобой, кстати, я не вижу облачка. Но вижу, что ты ещё не подписан. Это можно исправить. Ведь самое бледное облачко из всех висит над папой.)*
+
 [Erklärteil: zwei Strichmännchen, eines schreibt einen Brief, das andere liest ihn und strahlt.]
 *([Объясняющая часть: два стикмена, один пишет письмо, другой читает его и сияет.])*
 
@@ -293,7 +299,7 @@ Wir schweigen also nicht, weil der Satz unwichtig ist. Wir schweigen, weil wir f
 Auf dem Heimweg fühlst du dich, als hättest du einen Schatz gefunden. Bis dir einfällt, dass du deinen Vater heute kaum angesehen hast.
 *(По дороге домой ты чувствуешь себя так, будто нашёл клад. Пока не вспоминаешь, что сегодня почти не смотрел на отца.)*
 
-## [8:04–10:08] PAPA
+## [8:26–10:30] PAPA
 *(ПАПА)*
 
 [Garage in Fulda. Papa Klaus putzt eine Fahrradkette. Über ihm eine sehr blasse graue Blase.]
@@ -353,7 +359,7 @@ Zwei Menschen. Zwei Sätze. Und beide warten darauf, dass der andere ihn schon k
 Moment. Zwei Sätze?
 *(Стоп. Две фразы?)*
 
-## [10:08–11:51] DER SPIEGEL
+## [10:30–12:07] DER SPIEGEL
 *(ЗЕРКАЛО)*
 
 [Abends in Felix' Badezimmer in Kassel. Er putzt Zähne und erstarrt vor dem Spiegel.]
@@ -398,16 +404,10 @@ Die australische Palliativpflegerin Bronnie Ware hat jahrelang Menschen in ihren
 Nicht: Ich wünschte, ich hätte mehr gearbeitet. Nicht: Ich wünschte, ich hätte ein größeres Auto gehabt. Sondern: Ich hätte es sagen sollen.
 *(Не «Жаль, что я мало работал». Не «Жаль, что у меня не было машины побольше». А «Мне надо было это сказать».)*
 
-[Abonnieren-Glocke leuchtet auf.]
-*([Загорается колокольчик подписки.])*
+Du beschließt, es am nächsten Sonntag zu sagen. Bei der Fahrradtour. An der Brücke. Ganz bestimmt. Doch was dann passiert, hast du dir nicht ausgesucht.
+*(Ты решаешь сказать это в следующее воскресенье. На велопрогулке. У моста. Обязательно. Но то, что случится потом, ты не выбирал.)*
 
-Falls du noch nicht abonniert hast: Jetzt ist ein guter Moment. Denn was in den nächsten Minuten passiert, hat Felix sich nicht ausgesucht.
-*(Если ты ещё не подписан: сейчас самое время. Потому что то, что произойдёт в следующие минуты, Феликс не выбирал.)*
-
-Du beschließt, es am nächsten Sonntag zu sagen. Bei der Fahrradtour. An der Brücke. Ganz bestimmt.
-*(Ты решаешь сказать это в следующее воскресенье. На велопрогулке. У моста. Обязательно.)*
-
-## [11:51–13:52] DER STURZ
+## [12:07–14:09] DER STURZ
 *(ПАДЕНИЕ)*
 
 [Sonntag. Radweg an der Fulda, Herbstlaub. Papa fährt vorne, Felix hinten.]
@@ -470,7 +470,7 @@ Einer muss immer zuerst.
 Sie gibt dir ein Stück Pflaumenkuchen für deinen Vater mit. „Für den Mann mit dem Arm.“ Dann steigst du aus und rennst.
 *(Она даёт тебе с собой кусок сливового пирога для отца. «Для мужчины с рукой». Потом ты выходишь и бежишь.)*
 
-## [13:52–15:53] DER SATZ
+## [14:09–16:10] DER SATZ
 *(ФРАЗА)*
 
 [Zurück im Krankenhausflur bei Nacht, wie im Kaltstart. Felix vor der Glastür.]
@@ -536,7 +536,7 @@ Deine Mutter steht in der Tür und tut so, als hätte sie nichts gehört. Dann s
 Zahlen sind keine Urteile. Zahlen sind Gewohnheiten. Und Schweigen auch.
 *(Числа — не приговор. Числа — это привычки. И молчание тоже.)*
 
-## [15:53–17:17] EPILOG
+## [16:10–17:34] EPILOG
 *(ЭПИЛОГ)*
 
 [Weihnachten in Fulda. Schnee, Lichterkette am Haus. Papa mit verheiltem Arm, Mama, Felix – und Ben in der Tür.]
@@ -569,7 +569,7 @@ Und du fragst dich, welche Sätze gerade über ihnen schweben. Und wie blass sie
 Und dein Vater sagt seitdem manchmal, ganz nebenbei, beim Fahrradputzen: „Gut gemacht, Junge.“ Einfach so. Weil es gar nicht so schwer ist, wenn man einmal angefangen hat.
 *(А твой отец с тех пор иногда говорит, между делом, когда чистит велосипеды: «Молодец, сынок». Просто так. Потому что это совсем не так трудно, когда уже начал.)*
 
-## [17:17–18:43] IST DAS MÖGLICH + FRAGE AN DIE ZUSCHAUER
+## [17:34–19:06] IST DAS MÖGLICH + FRAGE AN DIE ZUSCHAUER
 *(ВОЗМОЖНО ЛИ ЭТО + ВОПРОС ЗРИТЕЛЯМ)*
 
 [Erklärkarte: „IST DAS MÖGLICH?“]
@@ -593,14 +593,14 @@ Du musst nicht warten, bis jemand vom Fahrrad fällt. Ein kleiner Trick: Schreib
 [Handybildschirm: eine Nachricht wird getippt: „Danke, dass du …“]
 *([Экран телефона: набирается сообщение: «Спасибо, что ты…»])*
 
-Und deshalb habe ich eine Frage an dich. Welchen Satz hast du jemandem nie gesagt? Deiner Mutter, deinem Vater, deinem besten Freund? Schreib ihn in die Kommentare. Vielleicht ist er dort leichter als am Telefon.
-*(И поэтому у меня к тебе вопрос. Какую фразу ты так никому и не сказал? Маме, папе, лучшему другу? Напиши её в комментариях. Может, там её сказать легче, чем по телефону.)*
+Und jetzt die Frage, die ich dir am Anfang versprochen habe. Würdest du die Sätze über deinen Eltern sehen wollen – oder lieber nicht? Und welchen Satz hast du jemandem nie gesagt? Schreib es in die Kommentare. Vielleicht ist es dort leichter als am Telefon.
+*(А теперь вопрос, который я обещал тебе в начале. Ты бы хотел видеть фразы над своими родителями — или лучше нет? И какую фразу ты так никому и не сказал? Напиши это в комментариях. Может, там это легче, чем по телефону.)*
 
-Und dann sag ihn. Wirklich. Einer muss immer zuerst. Warum nicht du?
-*(А потом скажи её. По-настоящему. Кто-то всегда должен быть первым. Почему не ты?)*
+Und wenn du jetzt auch an jemanden denkst, dem du einen Satz schuldest: Lass ein Like da, abonnier Axt – und ruf ihn an. Einer muss immer zuerst. Warum nicht du?
+*(И если ты сейчас тоже думаешь о ком-то, кому должен фразу: поставь лайк, подпишись на Axt — и позвони ему. Кто-то всегда должен быть первым. Почему не ты?)*
 
-Wenn dir die Geschichte gefallen hat, lass ein Like da und abonnier den Kanal. Und schau dir die anderen Geschichten von Felix an. Wir sehen uns beim nächsten Gedankenexperiment.
-*(Если тебе понравилась история, поставь лайк и подпишись на канал. И посмотри другие истории про Феликса. Увидимся в следующем мысленном эксперименте.)*
+Nächstes Mal: Was wäre, wenn du sehen könntest, wie es jemandem wirklich geht? Wir sehen uns.
+*(В следующий раз: что, если бы ты мог видеть, как у человека на самом деле дела? Увидимся.)*
 
 [Endbildschirm: zwei Videoplatzhalter, Abonnieren-Kreis, darüber eine kleine weiße Sprechblase: „Danke.“]
 *([Конечная заставка: два места под видео, кружок подписки, над ним маленькое белое облачко: «Спасибо».])*

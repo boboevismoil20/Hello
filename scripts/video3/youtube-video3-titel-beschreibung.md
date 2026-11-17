@@ -24,22 +24,22 @@ In diesem Video erfährst du:
 
 ⏱ Kapitel: *(Главы:)*
 00:00 Zwei Uhr nachts *(Два часа ночи)*
-00:50 Felix *(Феликс)*
-02:15 Die Blasen *(Облачка)*
-04:10 Die lustige Seite *(Смешная сторона)*
-06:03 Mama *(Мама)*
-08:04 Papa *(Папа)*
-10:08 Der Spiegel *(Зеркало)*
-11:51 Der Sturz *(Падение)*
-13:52 Der Satz *(Фраза)*
-15:53 Epilog *(Эпилог)*
-17:17 Ist das möglich? *(Возможно ли это?)*
+01:01 Felix *(Феликс)*
+02:26 Die Blasen *(Облачка)*
+04:21 Die lustige Seite *(Смешная сторона)*
+06:14 Mama *(Мама)*
+08:26 Papa *(Папа)*
+10:30 Der Spiegel *(Зеркало)*
+12:07 Der Sturz *(Падение)*
+14:09 Der Satz *(Фраза)*
+16:10 Epilog *(Эпилог)*
+17:34 Ist das möglich? *(Возможно ли это?)*
 
 > ⚠️ Таймкоды глав примерные, по расчёту темпа. После озвучки пересчитаю их по реальному голосу, как для видео 2.
 
 💬 Welchen Satz hast du jemandem nie gesagt? Schreib ihn in die Kommentare.
 *(Какую фразу ты так никому и не сказал? Напиши её в комментариях.)*
-🔔 Abonniere Axt für neue „Was wäre, wenn …?“-Geschichten.
+🔔 Abonniere Axt für neue „Was wäre, wenn …?“-Geschichten. Nächstes Mal: Was wäre, wenn du sehen könntest, wie es jemandem wirklich geht?
 *(Подпишись на Axt, чтобы не пропустить новые истории «Что, если…?».)*
 
 Diese Geschichte ist frei erfunden. Personen und Handlung sind fiktiv. Die wissenschaftlichen Fakten im Video sind real.
@@ -51,7 +51,9 @@ Diese Geschichte ist frei erfunden. Personen und Handlung sind fiktiv. Die wisse
 was wäre wenn, was wäre wenn du sehen könntest, eltern, vater und sohn, ich bin stolz auf dich, gedankenexperiment, animation deutsch, gefühle zeigen, dankbarkeit, was wäre wenn deutsch
 *(что было бы если, что было бы если бы ты мог видеть, родители, отец и сын, я горжусь тобой, мысленный эксперимент, анимация на немецком, показывать чувства, благодарность, что было бы если на немецком)*
 
-**Закреплённый комментарий:** „Welchen Satz hast du deinen Eltern nie gesagt? 👇“ *(Какую фразу ты так и не сказал родителям? 👇)*
+**Закреплённый комментарий:** „Würdest du die Sätze über deinen Eltern sehen wollen – oder lieber nicht? 🤔“ *(Ты бы хотел видеть фразы над своими родителями — или лучше нет?)*
+
+**Первый ответ от канала:** „Ich fang an: Ja. Auch wenn es wehtut. Und welchen Satz würdest du zuerst sagen?“ *(Я начну: да. Даже если больно. А какую фразу ты сказал бы первой?)*
 
 ---
 

@@ -561,4 +561,143 @@ Flat 2D vector cartoon. The same bakery as in the reference: Felix (28, curly da
 ```
 
 ---
-*Следующий кадр 61 начинается в 2:24.5 со слов «und über der Bäckerin schwebt eine graue Sprechblase.»*
+
+## Кадры 61–75
+
+**КАДР 61** · `061_02-24` · 2:24.5–2:27.9
+**Текст:** "und über der Bäckerin schwebt eine graue Sprechblase."
+**Идея:** Над пекаршей появляется серое облачко, текст пока не читается; Феликс замирает с протянутой рукой.
+**Эталоны:** Felix + кадр 59 (пекарня, пекарша)
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) behind the counter smiles; a grey semi-transparent speech bubble shaped like smoke floating in the air above the head (not on clothes or objects) above her head with blurry unreadable scribbles inside. Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) at the counter freezes with his hand halfway out, staring at the bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 62** · `062_02-27` · 2:27.9–2:32.0
+**Текст:** "Darin steht: „Du bist der Einzige, der sich jeden Morgen bedankt.“"
+**Идея:** Крупно пекарша, над ней серое облачко с фразой целиком. (Генерировать в high из-за длинного текста.)
+**Эталоны:** кадр 59 (пекарша)
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): close-up of the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) smiling kindly; above her head floats a grey semi-transparent speech bubble with the text spelled exactly "Du bist der Einzige, der sich jeden Morgen bedankt." in clear dark grey letters. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 63** · `063_02-32` · 2:32.0–2:33.4
+**Текст:** "Du reibst dir die Augen."
+**Идея:** Феликс у прилавка трёт глаза кулаками — не верит.
+**Эталоны:** Felix + кадр 59
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) at the counter rubs both eyes hard with his fists, unbelieving; the baker is behind the counter. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 64** · `064_02-33` · 2:33.4–2:34.7
+**Текст:** "Die Blase bleibt."
+**Идея:** Феликс опустил руки и смотрит: облачко над пекаршей всё ещё на месте.
+**Эталоны:** Felix + кадр 59
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) has lowered his hands and stares with wide eyes; above the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) the same grey speech bubble is still floating, with blurry unreadable scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 65** · `065_02-34` · 2:34.7–2:37.9
+**Текст:** "Sie bewegt sich mit ihr, wenn sie die Brötchen in die Tüte packt."
+**Идея:** Пекарша наклоняется и кладёт булочки в бумажный пакет, облачко плывёт за её головой (линии движения).
+**Эталоны:** кадр 59 (пекарша)
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) bends down to put two bread rolls into a paper bag; a grey semi-transparent speech bubble shaped like smoke floating in the air above the head (not on clothes or objects) follows her head, with small motion lines showing it moved with her; blurry unreadable scribbles inside. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 66** · `066_02-37` · 2:37.9–2:40.2
+**Текст:** "Draußen auf der Straße das Gleiche."
+**Идея:** Феликс выходит из пекарни с пакетом на улицу, а там у прохожих тоже серые облачка. ГЛАВНЫЙ КАДР сцены «улица».
+**Эталоны:** Felix + кадр 53 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning, the same German town street as in the reference (half-timbered houses, bakery with pretzel sign, cobblestones): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) steps out of the bakery door holding a paper bag with bread rolls and stops in amazement; passers-by on the street have grey semi-transparent speech bubbles with blurry unreadable scribbles floating above their heads. Normal mouths, no zippers. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 67** · `067_02-40` · 2:40.2–2:42.8
+**Текст:** "Nicht über jedem, aber über vielen."
+**Идея:** Та же улица: у одних прохожих облачка, у других — ничего; видно разницу.
+**Эталоны:** кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning, the same street: a row of about eight stickman passers-by walks past; above five of them float grey semi-transparent speech bubbles with blurry unreadable scribbles, above the other three there is nothing at all. Clear contrast. Normal mouths. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms each, YouTube what-if animation style. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 68** · `068_02-42` · 2:42.8–2:46.6
+**Текст:** "Grau, halbdurchsichtig, wie Rauch in Form einer Sprechblase"
+**Идея:** Крупно одно облачко: оно сделано из серого дыма, края клубятся, сквозь него видна улица.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Extreme close-up of a single grey semi-transparent speech bubble made of soft swirling smoke, its edges gently curling like smoke, the sunny street with houses visible through it. Blurry unreadable scribbles inside. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 69** · `069_02-46` · 2:46.6–2:49.6
+**Текст:** "und in jeder genau ein Satz."
+**Идея:** Ряд из пяти облачков, в каждом ровно одна неразборчивая строчка.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. On a soft sky-blue background a neat row of five grey semi-transparent smoke speech bubbles of different sizes; inside each bubble exactly ONE single line of blurry unreadable scribbles. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 70** · `070_02-49` · 2:49.6–2:52.5
+**Текст:** "Es dauert ein paar Tage, bis du die Regeln verstehst."
+**Идея:** Вечер в квартире: Феликс за столом пишет в блокноте, вокруг смятые листы, на обложке «REGELN».
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening in the same apartment as in the reference, warm desk lamp: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without the backpack sits at a small desk, concentrated, writing in an open notebook; crumpled paper balls around him, an empty coffee mug. On the notebook cover large handwritten letters spelled exactly "REGELN". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 71** · `071_02-52` · 2:52.5–2:53.7
+**Текст:** "Regel eins."
+**Идея:** Карточка правила: страница блокнота, крупно от руки «REGEL 1». ГЛАВНЫЙ КАДР для всех карточек правил.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Full-frame close-up of a lined notebook page on a wooden desk, in the center big hand-drawn bold letters spelled exactly "REGEL 1", a small doodle of a grey speech bubble next to it. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 72** · `072_02-53` · 2:53.7–2:58.8
+**Текст:** "Die Blase zeigt den einen Satz, den dieser Mensch dir sagen wollte, aber nie gesagt hat."
+**Идея:** Пекарша с облачком, от облачка к Феликсу тянется пунктирная стрелка — фраза адресована ему.
+**Эталоны:** Felix + кадр 59 (пекарня)
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) behind the counter with a grey semi-transparent speech bubble shaped like smoke floating in the air above the head (not on clothes or objects), blurry unreadable scribbles inside; a dotted curved arrow goes from the bubble directly to Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) standing at the counter. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 73** · `073_02-58` · 2:58.8–3:00.9
+**Текст:** "Nicht irgendwem. Dir."
+**Идея:** Феликс удивлённо показывает на себя: «мне?»; за ним другие покупатели, стрелка только к нему.
+**Эталоны:** Felix + кадр 59 (пекарня)
+**Prompt:**
+```
+Morning in the same cosy bakery as in the reference (glass counter with rolls and pretzels, wooden shelves): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) points at himself in surprise with raised eyebrows; behind him two other customers in the queue look elsewhere; the dotted arrow from the baker's grey bubble ends exactly at Felix. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 74** · `074_03-00` · 3:00.9–3:02.1
+**Текст:** "Regel zwei."
+**Идея:** Та же страница блокнота: «REGEL 2».
+**Эталоны:** кадр 71 (карточка)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same lined notebook page on the same wooden desk as in the reference, in the center big hand-drawn bold letters spelled exactly "REGEL 2", a small doodle of an eye next to it. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 75** · `075_03-02` · 3:02.1–3:06.9
+**Текст:** "Nur du siehst sie. Die anderen wissen nicht einmal, dass da etwas schwebt."
+**Идея:** Улица: Феликс смотрит на облачко над мужчиной, а прохожие идут мимо, один проходит прямо сквозь облачко и не замечает.
+**Эталоны:** Felix + кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning, the same street: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stops and stares up at a grey semi-transparent speech bubble above a man reading his phone; all the other passers-by walk by without noticing anything, one woman even walks straight through the bubble, completely unaware. Blurry unreadable scribbles in the bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 76 начинается в 3:06.9 со слов «Regel drei.»*

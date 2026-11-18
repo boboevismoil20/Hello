@@ -142,4 +142,143 @@ Night, hospital: Felix (28, curly dark-blond hair, light-blue denim jacket over 
 ```
 
 ---
-*Следующий кадр 16 начинается в 0:38.2 со слов «Wenn sie ganz verschwindet…».*
+
+## Кадры 16–30
+
+**КАДР 16** · `016_00-38` · 0:38.2–0:41.2
+**Текст:** "Wenn sie ganz verschwindet, wird er ihn nie mehr sagen."
+**Идея:** Бледное облачко над спящим папой рассыпается в серую пыль — страх потерять фразу навсегда.
+**Эталоны:** Papa Klaus + кадр 6 (палата)
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, the same hospital room: Papa Klaus (62, bald top with grey side hair, short grey beard, blue dotted hospital gown, blue sling on his right arm, small plaster on the forehead, two small red scratches on the cheek) asleep in bed. Above his head the very pale grey speech bubble is crumbling apart into fine grey dust particles that drift away into the dark air, only fragments of its outline remain, no readable letters. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 17** · `017_00-41` · 0:41.2–0:43.6
+**Текст:** "Nicht morgen, nicht in zehn Jahren."
+**Идея:** Феликс в коридоре, а за ним срываются и улетают листы настенного календаря — время уходит.
+**Эталоны:** Felix + кадр 4 (коридор)
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, the same cold blue hospital corridor: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stands still, seen from the side, looking at the glass door; on the wall behind him a big tear-off wall calendar whose blank pages are ripping off and flying away in a long stream through the air. No numbers or words on the pages. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 18** · `018_00-43` · 0:43.6–0:44.5
+**Текст:** "Nie."
+**Идея:** Над папой пустой тёмный воздух, от облачка осталось несколько пылинок — тишина «никогда».
+**Эталоны:** Papa Klaus + кадр 6 (палата)
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, the same hospital room, dark and quiet: Papa Klaus (62, bald top with grey side hair, short grey beard, blue dotted hospital gown, blue sling on his right arm, small plaster on the forehead, two small red scratches on the cheek) asleep in bed; the air above his head is completely empty, only three or four tiny grey dust particles slowly falling. Cold, empty, silent mood, a lot of dark empty space above him. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 19** · `019_00-44` · 0:44.5–0:45.7
+**Текст:** "Und das Schlimmste?"
+**Идея:** Феликс резко замирает, глаза расширяются: в стекле двери что-то мелькнуло над его головой.
+**Эталоны:** Felix + кадр 4 (коридор)
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, the same cold blue hospital corridor: close-up of Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) in front of the glass door, frozen, eyes wide open in shock, holding his breath; in the glass reflection a faint grey shape flickers above the head of his reflection. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 20** · `020_00-45` · 0:45.7–0:48.4
+**Текст:** "Über deinem eigenen Kopf hängt auch eine."
+**Идея:** Отражение в стекле: над головой самого Феликса висит серое облачко, а он в ужасе поднимает глаза.
+**Эталоны:** Felix + кадр 4 (коридор)
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, the same hospital corridor: the glass door shows a clear reflection of Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack); above the head of his reflection floats a grey semi-transparent speech bubble with blurry unreadable scribbles inside. The real Felix in the foreground slowly looks up above his own head, shocked, mouth open. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 21** · `021_00-48` · 0:48.4–0:52.5
+**Текст:** "Was wäre, wenn du sehen könntest, was dir deine Eltern nie gesagt haben?"
+**Идея:** Заставка серии: маленький Феликс в центре, по бокам мама и папа, над каждым серое облачко; крупно «WAS WÄRE, WENN …?».
+**Эталоны:** Felix, Mama Sabine, Papa Klaus
+**Prompt:**
+```
+Flat 2D vector cartoon. Title card on a dark blue night background with soft stars: in the center small Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack), on his left Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings), on his right Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket); above Mama and Papa float grey semi-transparent speech bubbles with blurry unreadable scribbles. At the top, huge bold white text with a thick black outline spelled exactly "WAS WÄRE, WENN …?". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 22** · `022_00-52` · 0:52.5–0:53.8
+**Текст:** "Bleib bis zum Ende."
+**Идея:** Длинная ночная дорога, в самом конце светится большой вопросительный знак — обещание финала.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, a long empty road stretching straight to the horizon under a starry sky, at the very end of the road a big glowing golden question mark shines like a lantern, strong perspective. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 23** · `023_00-53` · 0:53.8–0:57.5
+**Текст:** "Dort stelle ich dir eine Frage, die du nur ehrlich beantworten kannst."
+**Идея:** Феликс стоит перед огромным светящимся вопросительным знаком и прижимает руку к груди — вопрос для зрителя.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, at the end of the same road: a tiny Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stands in front of a giant glowing golden question mark that is ten times taller than him, he puts one hand on his chest, nervous but honest face. Exaggerated scale. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 24** · `024_00-57` · 0:57.5–0:59.3
+**Текст:** "Aber fangen wir von vorne an."
+**Идея:** Перемотка назад: часы с бешено крутящимися назад стрелками и надпись «DREI WOCHEN VORHER».
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Rewind effect on a dark blue background: a big round clock whose hands spin fast backwards with motion-blur swirl lines and rewind arrows around it. Below, bold white text with a thick black outline spelled exactly "DREI WOCHEN VORHER". Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 25** · `025_00-59` · 0:59.3–1:02.0
+**Текст:** "Du heißt Felix, du bist achtundzwanzig"
+**Идея:** Солнечное утро, Феликс машет зрителю, над головой табличка «FELIX, 28» — знакомство с героем. ГЛАВНЫЙ КАДР новой сцены (квартира).
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Bright sunny morning in a small cosy modern apartment: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without the backpack stands in the middle of the living room and waves at the viewer with a friendly smile, a coffee mug in the other hand. Floating in the air above his head (not on clothes) a small white rounded label with thick black outline spelled exactly "FELIX, 28". Warm sunlight from a big window, a plant, a sofa, a bicycle in the hallway. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 26** · `026_01-02` · 1:02.0–1:04.3
+**Текст:** "und wohnst seit einem halben Jahr in Kassel."
+**Идея:** Та же квартира: ещё стоят пара нераспакованных коробок — он тут недавно, полгода.
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same sunny apartment: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) sits on the floor next to two still unpacked cardboard moving boxes, pulling out a framed photo, relaxed smile; the rest of the flat already looks lived-in. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 27** · `027_01-04` · 1:04.3–1:07.5
+**Текст:** "Eine Stunde mit dem Zug bis zu deinen Eltern nach Fulda."
+**Идея:** Простая карта: точка «Kassel» — красная линия с поездом — точка «Fulda» с домиком родителей, «1 STUNDE».
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. A simple stylized map in pastel green: a city dot labelled exactly "Kassel" at the top and a city dot labelled exactly "Fulda" at the bottom with a tiny cosy family house next to it; a red dashed line connects them, a small cartoon train runs along it, and next to the line a white label spelled exactly "1 STUNDE". Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 28** · `028_01-07` · 1:07.5–1:08.8
+**Текст:** "Das war Absicht."
+**Идея:** Феликс на перроне хитро подмигивает и показывает билет — он нарочно переехал ближе к родителям.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. A small sunny German train platform: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) winks at the viewer with a confident smile and holds up a train ticket, a red regional train waiting behind him. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 29** · `029_01-08` · 1:08.8–1:11.1
+**Текст:** "Seit Oma Gerda im Februar gestorben ist,"
+**Идея:** Тихий кадр: на тумбочке фото бабушки Герды в рамке с чёрной ленточкой и горящая свеча.
+**Эталоны:** Oma Gerda
+**Prompt:**
+```
+Flat 2D vector cartoon. Quiet indoor still life in soft evening light: on a small wooden shelf a framed photo of Oma Gerda (smiling old stickman woman, as in the reference) with a thin black ribbon across the corner of the frame, next to it a lit white candle and a small bunch of snowdrops. Calm, gentle, sad mood. Thick black outlines, flat colors, stickman characters with round pure white heads and dot eyes, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 30** · `030_01-11` · 1:11.1–1:15.9
+**Текст:** "weißt du, wie schnell aus „irgendwann“ ein „zu spät“ werden kann."
+**Идея:** Табличка «IRGENDWANN» в руке Феликса трескается и рассыпается, а под ней проступает «ZU SPÄT».
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Simple dark blue background: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) holds a white wooden sign spelled exactly "IRGENDWANN" that is cracking and crumbling into pieces; behind it a red sign spelled exactly "ZU SPÄT" is revealed. Felix looks at it sadly. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 31 начинается в 1:15.9 со слов «Bei ihr hast du es gerade noch geschafft.»*

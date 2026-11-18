@@ -422,4 +422,143 @@ Early autumn afternoon, a quiet riverside bike path along a calm river with a fe
 ```
 
 ---
-*Следующий кадр 46 начинается в 1:54.1 со слов «Pause?» – «Pause.»*
+
+## Кадры 46–60
+
+**КАДР 46** · `046_01-54` · 1:54.1–1:56.1
+**Текст:** "„Pause?“ – „Pause.“"
+**Идея:** Остановились у скамейки у реки: белые реплики «Pause?» у папы и «Pause.» у Феликса.
+**Эталоны:** Felix, Papa Klaus + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon on the same riverside bike path as in the reference (calm river, green meadows, trees with yellow-orange leaves): Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt), both with helmets, have just stopped their bikes (green and blue) next to a wooden bench by the river. Normal solid WHITE comic speech bubbles (not grey): above Papa "Pause?", above Felix "Pause.", each spelled exactly. Deadpan faces. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 47** · `047_01-56` · 1:56.1–1:57.9
+**Текст:** "Ein typischer Sonntag."
+**Идея:** Вид со спины: папа и сын молча сидят на скамейке у реки, пьют из термоса, велосипеды рядом — тишина.
+**Эталоны:** Felix, Papa Klaus + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon on the same riverside bike path as in the reference (calm river, green meadows, trees with yellow-orange leaves): view from behind: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sit side by side on a wooden bench facing the river, both silently holding cups from a thermos, their green and blue bikes leaning next to the bench, a lot of empty space between them on the bench. Calm, quiet, slightly awkward mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 48** · `048_01-57` · 1:57.9–2:00.6
+**Текст:** "Und weißt du was? Du dachtest, das reicht."
+**Идея:** Феликс на скамейке довольно показывает большой палец в камеру — ему казалось, что этого хватает.
+**Эталоны:** Felix + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon on the same riverside bike path as in the reference (calm river, green meadows, trees with yellow-orange leaves): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sits on the wooden bench with a thermos cup, turns to the viewer and gives a satisfied thumbs-up with a relaxed, self-assured smile; Papa is blurred in the background looking at the river. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 49** · `049_02-00` · 2:00.6–2:02.9
+**Текст:** "Ihr seht euch. Ihr lacht manchmal."
+**Идея:** Гостиная родителей: Феликс и папа на диване смеются над чем-то по телевизору.
+**Эталоны:** Felix, Papa Klaus + кадр 36 (гостиная)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same cosy family living room as in the reference, evening: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) and Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) sit on the sofa watching TV (screen not visible), both laughing out loud at the same moment, Papa slaps his knee. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 50** · `050_02-02` · 2:02.9–2:04.9
+**Текст:** "Ihr wisst doch, was ihr füreinander seid."
+**Идея:** Тот же диван: папа неловко похлопывает Феликса по плечу, глядя в сторону — любовь без слов.
+**Эталоны:** Felix, Papa Klaus + кадр 36 (гостиная)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same cosy family living room: on the sofa Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) awkwardly pats Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) on the shoulder once while both look away from each other, small embarrassed smiles. Warm lamp light. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 51** · `051_02-04` · 2:04.9–2:06.9
+**Текст:** "Das muss man doch nicht laut sagen."
+**Идея:** Комичный образ: у папы и Феликса вместо ртов застёгнутые молнии, оба довольно кивают.
+**Эталоны:** Felix, Papa Klaus + кадр 36 (гостиная)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same cosy family living room: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sit on the sofa, each has a small cartoon zipper drawn instead of a mouth, zipped shut; both nod contently with closed eyes. Funny, ironic mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 52** · `052_02-06` · 2:06.9–2:08.3
+**Текст:** "Das denken fast alle."
+**Идея:** Площадь маленького города: десятки людей, у всех рты-молнии, все дружно кивают.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. A small town square with many stickman people of all ages (families, old couples, teenagers), every single person has a small cartoon zipper instead of a mouth, zipped shut, and they all nod at the same time. Sunny day, funny ironic mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms each, YouTube what-if animation style. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 53** · `053_02-08` · 2:08.3–2:09.8
+**Текст:** "Vor allem in Deutschland."
+**Идея:** Типичная немецкая улица с фахверковыми домиками, пекарней и велосипедами — узнаваемо, но без флагов и достопримечательностей.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. A typical small German town street: colorful half-timbered houses, a bakery with a pretzel sign, bicycles leaning on a wall, a red post box, cobblestones, a few stickman people walking with zipper mouths. Cosy, slightly funny mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, YouTube what-if animation style. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 54** · `054_02-09` · 2:09.8–2:12.0
+**Текст:** "Hier sagt man nicht „Ich hab dich lieb“."
+**Идея:** Большая белая реплика «Ich hab dich lieb» перечёркнута жирным красным крестом.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. On a soft warm beige background a big solid WHITE comic speech bubble (not grey) with the text spelled exactly "Ich hab dich lieb", crossed out by a huge bold red X. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 55** · `055_02-12` · 2:12.0–2:14.2
+**Текст:** "Hier sagt man „Fahr vorsichtig“"
+**Идея:** Мама у двери родительского дома машет уходящему Феликсу, белая реплика «Fahr vorsichtig!».
+**Эталоны:** Mama Sabine, Felix + кадр 35 (дверь дома)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening at the same front door of the family house as in the reference: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) stands in the doorway and waves goodbye, Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack walks away toward the street, looking back. Above Mama a normal solid WHITE comic speech bubble (not grey) spelled exactly "Fahr vorsichtig!". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 56** · `056_02-14` · 2:14.2–2:16.1
+**Текст:** "und „Hast du genug gegessen?“"
+**Идея:** Мама на кухне накладывает Феликсу огромную гору еды, белая реплика «Hast du genug gegessen?».
+**Эталоны:** Mama Sabine, Felix + кадр 38 (кухня мамы)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same warm family kitchen as in the reference: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) piles a ridiculously huge mountain of potatoes, meat and vegetables onto Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt)'s plate at the kitchen table; Felix looks at it overwhelmed. Above Mama a normal solid WHITE comic speech bubble (not grey) spelled exactly "Hast du genug gegessen?". Exaggerated funny scale. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 57** · `057_02-16` · 2:16.1–2:18.3
+**Текст:** "Bis zu dem Dienstag, an dem du aufwachst"
+**Идея:** Утро вторника: Феликс просыпается в своей спальне, будильник показывает «DIENSTAG». ГЛАВНЫЙ КАДР сцены «спальня».
+**Эталоны:** Felix + кадр 25 (квартира, стиль)
+**Prompt:**
+```
+Flat 2D vector cartoon. Early morning sunlight in Felix's small bedroom in the same apartment style as the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) in a plain grey t-shirt with messy curly dark-blond hair sits up in bed, yawning and stretching; on the nightstand a digital alarm clock whose display shows exactly "DIENSTAG". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 58** · `058_02-18` · 2:18.3–2:21.0
+**Текст:** "und die Welt plötzlich voller Sätze ist."
+**Идея:** Феликс в футболке у окна спальни замер в шоке: на улице над многими прохожими висят серые облачка.
+**Эталоны:** Felix + кадр 57 (спальня)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning, the same bedroom: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) in a plain grey t-shirt stands at the open window, frozen in shock, mouth open; outside on the sunny street below many stickman passers-by walk, and above many of their heads float grey semi-transparent speech bubbles with blurry unreadable scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 59** · `059_02-21` · 2:21.0–2:22.7
+**Текст:** "Es fängt in der Bäckerei an."
+**Идея:** Уютная пекарня изнутри: витрина с булочками и брецелями, за прилавком пекарша. ГЛАВНЫЙ КАДР сцены «пекарня» и эталон пекарши.
+**Эталоны:** нет (пекарша создаётся здесь)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning inside a cosy small German bakery: a glass counter full of bread rolls, pretzels and cakes, wooden shelves with loaves, warm light; behind the counter the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) smiles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No famous landmarks, no flags, no logos, no text, no shop name. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 60** · `060_02-22` · 2:22.7–2:24.5
+**Текст:** "Du bestellst wie immer zwei Brötchen"
+**Идея:** Та же пекарня: Феликс у прилавка показывает два пальца, пекарша кладёт две булочки.
+**Эталоны:** Felix + кадр 59 (пекарня)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same bakery as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack stands at the counter and shows two fingers with a friendly sleepy smile; the baker woman (45, short red hair under a white cap, white apron with a small pretzel print) behind the counter puts two bread rolls on the counter. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 61 начинается в 2:24.5 со слов «und über der Bäckerin schwebt eine graue Sprechblase.»*

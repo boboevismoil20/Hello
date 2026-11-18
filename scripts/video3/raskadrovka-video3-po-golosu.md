@@ -281,4 +281,145 @@ Flat 2D vector cartoon. Simple dark blue background: Felix (28, curly dark-blond
 ```
 
 ---
-*Следующий кадр 31 начинается в 1:15.9 со слов «Bei ihr hast du es gerade noch geschafft.»*
+
+## Кадры 31–45
+
+> Правило непрерывности: для каждой сцены сначала генерируется ГЛАВНЫЙ КАДР, потом он прикладывается как образец ко всем кадрам этой сцены вместе с эталонами героев.
+
+**КАДР 31** · `031_01-15` · 1:15.9–1:18.4
+**Текст:** "Bei ihr hast du es gerade noch geschafft."
+**Идея:** Феликс сидит у кровати бабушки Герды и держит её за руку, она слабо улыбается — он успел. ГЛАВНЫЙ КАДР сцены «комната бабушки».
+**Эталоны:** Felix, Oma Gerda
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft warm evening light in a small cosy bedroom of an old lady: Oma Gerda (very old, white curly hair, pink knitted cardigan, as in the reference) lies in a bed with a flowery blanket and smiles weakly; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sits on a chair right next to the bed and gently holds her hand with both hands. A small lamp, a window with a sunset, family photos on the wall. Calm, tender mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 32** · `032_01-18` · 1:18.4–1:21.0
+**Текст:** "Du warst da. Ganz."
+**Идея:** Крупно: руки Феликса и бабушки вместе, рядом на тумбочке экраном вниз лежит его телефон — он был рядом весь, без отвлечений.
+**Эталоны:** Felix, Oma Gerda + кадр 31 (комната)
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up in the same cosy bedroom: Felix's hand (light-blue denim sleeve) holds Oma Gerda's old hand on the flowery blanket; on the nightstand next to them his smartphone lies face-down, switched off. Warm lamp light. Tender, quiet mood. Thick black outlines, flat warm colors, stickman style hands, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 33** · `033_01-21` · 1:21.0–1:22.8
+**Текст:** "Vielleicht kennst du Felix schon."
+**Идея:** Феликс в своей квартире хитро поднимает бровь и показывает на себя — подмигивание зрителям второго видео.
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same sunny apartment as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) looks straight at the viewer with one raised eyebrow and a knowing smile, pointing at himself with his thumb. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 34** · `034_01-22` · 1:22.8–1:26.1
+**Текст:** "Letztes Jahr hat er über jedem Menschen eine Zahl gesehen,"
+**Идея:** Флешбэк из видео 2: перрон, над головами людей висят белые таблички с числами, Феликс смотрит на них.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Flashback with a slightly faded, warm tone: a busy German train platform, several stickman travelers; floating in the air above each head (not on clothes or objects) a small white rounded label with thick black outline and a number: "312", "11", "58", "3". Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with a black backpack stands in the middle and looks around amazed at the numbers. No other text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 35** · `035_01-26` · 1:26.1–1:28.1
+**Текст:** "wie oft er ihn noch treffen wird."
+**Идея:** Флешбэк: Феликс обнимает маму, над её головой табличка «312» — столько встреч им осталось.
+**Эталоны:** Felix, Mama Sabine
+**Prompt:**
+```
+Flat 2D vector cartoon. Flashback with a slightly faded, warm tone: at the front door of a family house Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) hugs Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings); floating in the air above Mama's head (not on clothes) a small white rounded label with thick black outline spelled exactly "312". Warm, touching mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 36** · `036_01-28` · 1:28.1–1:30.4
+**Текст:** "Die Zahlen sind irgendwann verschwunden,"
+**Идея:** Числа над головами мамы и папы рассыпаются в золотые искорки и исчезают.
+**Эталоны:** Felix, Mama Sabine, Papa Klaus
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening in a cosy family living room: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) stands with Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) and Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket); the white number labels above Mama's and Papa's heads are dissolving into small golden sparkles that float upward and vanish, only faint traces of the labels remain, no readable numbers. Felix watches with a soft smile. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 37** · `037_01-30` · 1:30.4–1:32.9
+**Текст:** "aber was er gelernt hat, ist geblieben."
+**Идея:** Феликс в квартире обводит в настенном календаре все воскресенья сердечками — привычка осталась.
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same sunny apartment: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) stands at a big wall calendar with a red marker and draws small red hearts around every Sunday, satisfied smile. The calendar shows only a grid with small hearts, no readable words or numbers. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 38** · `038_01-32` · 1:32.9–1:35.3
+**Текст:** "Du rufst deine Mutter jeden Sonntag an."
+**Идея:** Экран пополам: Феликс на диване в своей квартире говорит по телефону, справа мама на своей кухне смеётся в трубку.
+**Эталоны:** Felix, Mama Sabine + кадр 25 (квартира)
+**Prompt:**
+```
+Flat 2D vector cartoon. Split screen with a thin vertical line in the middle: on the left Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sits relaxed on the grey sofa of his sunny apartment talking on his phone; on the right Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) stands in her warm family kitchen with a phone at her ear, laughing happily. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 39** · `039_01-35` · 1:35.3–1:37.2
+**Текст:** "Du fährst mit deinem Vater Fahrrad."
+**Идея:** Феликс и папа едут на велосипедах по дорожке вдоль реки. ГЛАВНЫЙ КАДР сцены «велосипедная дорожка».
+**Эталоны:** Felix, Papa Klaus
+**Prompt:**
+```
+Early autumn afternoon, a quiet riverside bike path along a calm river with a few yellow-orange leaves on the trees and green meadows: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) with a simple bicycle helmet rides in front on an old green city bike, Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with a helmet rides right behind him on a shiny new blue bike. Both look calm and focused. Papa has no injuries. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 40** · `040_01-37` · 1:37.2–1:39.4
+**Текст:** "Einmal im Monat, manchmal öfter."
+**Идея:** Настенный календарь: на нескольких днях нарисованы маленькие велосипеды, в одном месяце — даже три.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of a simple wall calendar page with a plain grid; on several days small cute bicycle icons are drawn with a marker, on one week even two bicycles. No readable words or numbers. Warm sunny light. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 41** · `041_01-39` · 1:39.4–1:42.2
+**Текст:** "Er hat sich extra ein zweites Rad gekauft."
+**Идея:** Папа в гараже гордо показывает новенький велосипед с бантом, Феликс удивлён. ГЛАВНЫЙ КАДР сцены «гараж».
+**Эталоны:** Papa Klaus, Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. A tidy family garage with a tool wall and a workbench: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) proudly presents a brand-new shiny blue bicycle with a big red bow on the handlebar, trying to look casual; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) stands in the open garage door, surprised and touched. His old green city bike leans on the wall. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 42** · `042_01-42` · 1:42.2–1:45.1
+**Текст:** "Ihr fahrt die immer gleiche Runde an der Fulda entlang."
+**Идея:** Общий план сверху: петля дорожки вдоль реки, две маленькие фигурки на велосипедах.
+**Эталоны:** Felix, Papa Klaus + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon, a quiet riverside bike path along a calm river with a few yellow-orange leaves on the trees and green meadows: high wide view from above: the bike path makes a big loop along the river through meadows and small trees; far away two tiny cyclists (Papa in a brown jacket on a green bike in front, Felix in a light-blue denim jacket on a blue bike behind) ride along the loop. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 43** · `043_01-45` · 1:45.1–1:46.5
+**Текст:** "Vierzig Kilometer."
+**Идея:** Крупно: велокомпьютер на руле показывает «40 KM».
+**Эталоны:** нет
+**Prompt:**
+```
+Early autumn afternoon, a quiet riverside bike path along a calm river with a few yellow-orange leaves on the trees and green meadows: close-up of a small bicycle computer mounted on the handlebar of the blue bike, its screen shows large digits spelled exactly "40 KM". The river path blurred in the background. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 44** · `044_01-46` · 1:46.5–1:50.6
+**Текст:** "Und in diesen vierzig Kilometern sagt ihr ungefähr zwölf Wörter."
+**Идея:** Отец и сын едут рядом молча, сжатые губы, над ними маленькая табличка «12 WÖRTER» — ирония.
+**Эталоны:** Felix, Papa Klaus + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon, a quiet riverside bike path along a calm river with a few yellow-orange leaves on the trees and green meadows: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt), both with helmets, ride side by side in total silence, both with tight closed mouths, looking straight ahead. Floating in the air between them a small white rounded label with thick black outline spelled exactly "12 WÖRTER". Funny awkward mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 45** · `045_01-50` · 1:50.6–1:54.1
+**Текст:** "„Na?“ – „Na.“ – „Geht's?“ – „Muss ja.“"
+**Идея:** Едут рядом, над ними обычные белые реплики-диалог: «Na?» «Na.» «Geht's?» «Muss ja.» — весь их разговор.
+**Эталоны:** Felix, Papa Klaus + кадр 39 (дорожка)
+**Prompt:**
+```
+Early autumn afternoon, a quiet riverside bike path along a calm river with a few yellow-orange leaves on the trees and green meadows: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt), both with helmets, ride side by side. Normal white comic speech bubbles (white, solid, not grey) with short dialogue: above Papa "Na?" and "Geht's?", above Felix "Na." and "Muss ja.", each spelled exactly. Deadpan faces. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 46 начинается в 1:54.1 со слов «Pause?» – «Pause.»*

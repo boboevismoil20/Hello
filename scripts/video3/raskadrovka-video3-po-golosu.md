@@ -702,4 +702,143 @@ Flat 2D vector cartoon. Morning, the same street: Felix (28, curly dark-blond ha
 ```
 
 ---
-*Следующий кадр 76 начинается в 2:41.8 со слов «Und du darfst den Satz nicht verraten.» (сокращённая версия)*
+
+## Кадры 76–90 (сокращённая версия)
+
+**КАДР 76** · `076_02-41` · 2:41.8–2:44.1
+**Текст:** "Und du darfst den Satz nicht verraten."
+**Идея:** Карточка правила на той же странице блокнота: «REGEL 3» и значок пальца у губ «тсс».
+**Эталоны:** кадр 71 (карточка)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same lined notebook page on the same wooden desk as in the reference, in the center big hand-drawn bold letters spelled exactly "REGEL 3", a small doodle of a finger on lips (shh) next to it. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 77** · `077_02-44` · 2:44.1–2:47.3
+**Текст:** "Das merkst du auf die harte Tour, als du deinem Kollegen sagst:"
+**Идея:** Офис: Феликс за столом поворачивается к коллеге у холодильника, над коллегой серое облачко. ГЛАВНЫЙ КАДР сцены «офис» и эталон коллеги.
+**Эталоны:** Felix
+**Prompt:**
+```
+Daytime in a bright modern open-plan office (white desks, laptops, plants, a small kitchen corner with a fridge): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) without backpack sits at his desk and turns around with a knowing smirk toward his office colleague (35, short black hair, black rectangular glasses, green hoodie), who stands at the office fridge; above the colleague's head a grey semi-transparent smoke speech bubble floating in the air above the head (not on clothes or objects), with blurry unreadable scribbles inside. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 78** · `078_02-47` · 2:47.3–2:49.9
+**Текст:** "„Ich weiß, dass du meinen Joghurt gegessen hast.""
+**Идея:** Феликс победно показывает пальцем, белая реплика с фразой; коллега прячет за спиной пустой стаканчик йогурта.
+**Эталоны:** Felix + кадр 77 (офис, коллега)
+**Prompt:**
+```
+Daytime in a bright modern open-plan office (white desks, laptops, plants, a small kitchen corner with a fridge): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) points at his office colleague (35, short black hair, black rectangular glasses, green hoodie) triumphantly; above Felix a normal solid WHITE comic speech bubble (not grey) spelled exactly "Ich weiß, dass du meinen Joghurt gegessen hast."; the colleague, caught, hides an empty yogurt cup with a spoon behind his back; his grey smoke bubble still floats above his head with blurry scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 79** · `079_02-49` · 2:49.9–2:52.1
+**Текст:** "Seine Blase zerfällt zu Staub."
+**Идея:** Серое облачко над коллегой рассыпается в пыль, Феликс в ужасе понимает, что натворил.
+**Эталоны:** Felix + кадр 77
+**Prompt:**
+```
+Daytime in a bright modern open-plan office (white desks, laptops, plants, a small kitchen corner with a fridge): above his office colleague (35, short black hair, black rectangular glasses, green hoodie) the grey smoke speech bubble crumbles into fine grey dust particles that fall down; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) watches in horror with his mouth open, realizing his mistake. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 80** · `080_02-52` · 2:52.1–2:54.3
+**Текст:** "Er wird es dir nie mehr selbst sagen."
+**Идея:** Коллега с розовыми щеками неловко отводит глаза, облачка над ним больше нет — момент упущен.
+**Эталоны:** кадр 77 (коллега)
+**Prompt:**
+```
+Daytime in a bright modern open-plan office (white desks, laptops, plants, a small kitchen corner with a fridge): his office colleague (35, short black hair, black rectangular glasses, green hoodie) with small pink blushing cheeks awkwardly looks away and scratches the back of his head, holding the empty yogurt cup; the air above his head is completely empty, only a few last grey dust particles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 81** · `081_02-54` · 2:54.3–2:56.4
+**Текст:** "Der Satz muss vom anderen kommen."
+**Идея:** Простая схема: от рта другого человека к Феликсу идёт стрелка, а от Феликса к нему — перечёркнутая.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Simple explainer illustration on a soft beige background: on the left Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt), on the right a generic stickman; a green arrow goes from the mouth of the stickman on the right to Felix's ear, and a red crossed-out arrow goes from Felix's mouth to the stickman. Clean, minimal, easy to read. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 82** · `082_02-56` · 2:56.4–2:58.8
+**Текст:** "Du kannst nur den Moment dafür schaffen."
+**Идея:** Феликс ставит на стол две чашки кофе и отодвигает стул, приглашая сесть — он создаёт момент.
+**Эталоны:** Felix + кадр 77 (офис)
+**Prompt:**
+```
+Daytime in a bright modern open-plan office (white desks, laptops, plants, a small kitchen corner with a fridge): in the small office kitchen corner Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) places two steaming coffee mugs on a little table and pulls out a chair invitingly, with a warm open smile toward someone off-screen. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 83** · `083_02-58` · 2:58.8–3:00.9
+**Текст:** "Und dann ist da die vierte Regel."
+**Идея:** Карточка: «REGEL 4» и значок песочных часов.
+**Эталоны:** кадр 71 (карточка)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same lined notebook page on the same wooden desk as in the reference, in the center big hand-drawn bold letters spelled exactly "REGEL 4", a small doodle of an hourglass next to it. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 84** · `084_03-00` · 3:00.9–3:04.1
+**Текст:** "Die Blasen werden jeden Tag ein bisschen blasser."
+**Идея:** Ряд из четырёх облачков: от насыщенно-серого до почти прозрачного, между ними стрелки — так облачко бледнеет день за днём.
+**Эталоны:** кадр 68 (облачко)
+**Prompt:**
+```
+Flat 2D vector cartoon. On a soft sky-blue background a row of four grey smoke speech bubbles in the same style as the reference, connected by small arrows from left to right: the first is strong dark grey with sharp blurry scribbles, each next one is paler and more transparent, the last one is almost invisible. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 85** · `085_03-04` · 3:04.1–3:07.0
+**Текст:** "Wenn eine ganz verschwunden ist, ist der Satz weg."
+**Идея:** Улица: над прохожим остался только слабый след пыли — облачко исчезло совсем.
+**Эталоны:** кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning, the same German street as in the reference: a stickman passer-by in a yellow raincoat stands still; in the air above his head only a faint ring of the last grey dust particles fading away, the bubble is gone. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 86** · `086_03-07` · 3:07.0–3:09.2
+**Текст:** "Nicht der Mensch. Nur der Moment."
+**Идея:** Тот же прохожий спокойно идёт дальше и улыбается, а рядом на скамейке пустые песочные часы — ушёл только момент.
+**Эталоны:** кадр 85 (улица, прохожий)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same street: the same stickman in the yellow raincoat walks on calmly and smiles, perfectly fine; next to him on a bench stands a large hourglass whose sand has completely run out. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 87** · `087_03-09` · 3:09.2–3:13.0
+**Текст:** "Und über deinem Vater hängt eine der blassesten, die du je gesehen hast."
+**Идея:** Гараж родителей: папа молча чинит велосипед, над ним едва видное, почти прозрачное облачко с растрёпанными краями (текст не читается).
+**Эталоны:** Papa Klaus + кадр 41 (гараж)
+**Prompt:**
+```
+Flat 2D vector cartoon. Afternoon in the same tidy family garage as in the reference: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket), no injuries, silently fixes the old green bike at the workbench; above his head floats an extremely pale, almost invisible grey smoke speech bubble with frayed crumbling edges, its letters too faint to read. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 88** · `088_03-13` · 3:13.0–3:15.2
+**Текст:** "Aber dazu später."
+**Идея:** Ворота гаража медленно опускаются и закрывают папу с бледным облачком — интрига «позже».
+**Эталоны:** кадр 41 (гараж)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same family garage seen from outside the driveway: the roller garage door is coming down and is already three-quarters closed; through the gap at the bottom only Papa's legs and the wheels of the green bike are still visible, and a faint grey glow leaks out. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 89** · `089_03-15` · 3:15.2–3:18.3
+**Текст:** "Erst einmal merkst du, wie lustig das Ganze ist."
+**Идея:** Феликс на улице хохочет, держась за живот, вокруг прохожие с облачками. Начало главы «Смешная сторона».
+**Эталоны:** Felix + кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning on the same German street: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack laughs out loud, holding his belly, tears of laughter; around him passers-by with grey smoke speech bubbles with blurry unreadable scribbles above their heads. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 90** · `090_03-18` · 3:18.3–3:22.7
+**Текст:** "Die Kassiererin begrüßt dich seit Monaten mit „Hallo, Sie schon wieder.""
+**Идея:** Касса супермаркета: кассирша с усталой улыбкой, белая реплика «Hallo, Sie schon wieder.»; Феликс у ленты. ГЛАВНЫЙ КАДР сцены «супермаркет» и эталон кассирши.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening at a supermarket checkout (conveyor belt, shelves with products without brands in the background): the cashier (55, grey hair in a ponytail, red work vest over a white shirt, a name tag without readable text) sits at the register with a tired, ironic smile; above her a normal solid WHITE comic speech bubble (not grey) spelled exactly "Hallo, Sie schon wieder.". Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack stands at the conveyor belt, slightly embarrassed. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no flags, no logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 91 начинается в 3:22.7 со слов «Ihre Blase: „Ich hab mal versucht …“»*

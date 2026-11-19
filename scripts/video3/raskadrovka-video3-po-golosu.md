@@ -2089,4 +2089,140 @@ Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white 
 ```
 
 ---
-*Следующий кадр 226 начинается в 9:23.4 со слов «„Der hat nie viel geredet.»*
+**КАДР 226** · `226_09-23` · 9:23.4–9:25.1
+**Текст:** "„Der hat nie viel geredet."
+**Идея:** Сепия: молодые Хильде и муж за завтраком, он молча читает газету.
+**Эталоны:** сепия 225
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette, the same young couple as in the reference: young Hilde (brown hair bun, round glasses, cardigan) and her husband (flat cap on the hook, simple shirt) sit at a small kitchen table at breakfast; he silently reads a newspaper without readable letters, she silently drinks coffee; no words between them. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 227** · `227_09-25` · 9:25.1–9:26.1
+**Текст:** "Ich auch nicht."
+**Идея:** Сепия: Хильде молча вяжет рядом с ним, оба молчат.
+**Эталоны:** сепия 225
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette, the same young couple as in the reference: the same couple on a sofa in the evening: young Hilde silently knitting, her husband silently watching an old TV with an empty glowing screen; both with closed mouths, a small clock on the wall. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 228** · `228_09-26` · 9:26.1–9:27.8
+**Текст:** "Aber ich hab irgendwann gemerkt:"
+**Идея:** Поезд: Хильде мудро улыбается и поднимает указательный палец.
+**Эталоны:** Hilde + Felix + кадр 219
+**Prompt:**
+```
+Inside the same modern white high-speed train carriage as in the reference, evening, rainy dark-blue window, small table between the seats: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron, plain white hands) raises one index finger with a wise gentle smile; across the table Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) listens attentively. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 229** · `229_09-27` · 9:27.8–9:29.5
+**Текст:** "Einer muss immer zuerst."
+**Идея:** Сепия: на скамейке молодая Хильде первой берёт мужа за руку, он удивлённо улыбается.
+**Эталоны:** сепия 225
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette, the same young couple as in the reference: on the same park bench young Hilde reaches over first and takes her husband's hand; he looks at their hands surprised, then smiles warmly; a tiny heart above their hands. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 230** · `230_09-29` · 9:29.5–9:31.3
+**Текст:** "Sonst wartet man ewig.""
+**Идея:** Смешная вставка: два человечка молча сидят напротив, у них выросли длинные седые бороды, паутина, летят листки календаря.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon, comic exaggeration: two stickman people sit facing each other on two chairs, both with closed mouths, waiting for the other to speak; both have grown extremely long grey beards down to the floor, cobwebs hang between them and the chairs, calendar pages fly through the air around them. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no letters on the calendar pages, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 231** · `231_09-31` · 9:31.3–9:33.4
+**Текст:** "Einer muss immer zuerst."
+**Идея:** Крупно Хильде мягко улыбается, над ней пусто; внизу титр «Einer muss immer zuerst.».
+**Эталоны:** Hilde + кадр 219
+**Prompt:**
+```
+Inside the same modern white high-speed train carriage as in the reference, evening, rainy dark-blue window, small table between the seats: close-up of Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron, plain white hands) smiling gently and warmly at the viewer, the air above her head empty and softly lit; at the bottom of the frame a clean white subtitle with a thin dark outline spelled exactly "Einer muss immer zuerst.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 232** · `232_09-33` · 9:33.4–9:35.1
+**Текст:** "Sie gibt dir ein Stück Pflaumenkuchen mit."
+**Идея:** Хильде протягивает Феликсу кусок сливового пирога в бумажной салфетке.
+**Эталоны:** Hilde + Felix + кадр 219
+**Prompt:**
+```
+Inside the same modern white high-speed train carriage as in the reference, evening, rainy dark-blue window, small table between the seats: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron, plain white hands) hands Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) a slice of plum cake wrapped in a white paper napkin across the small table; Felix takes it with both hands, touched. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 233** · `233_09-35` · 9:35.1–9:37.1
+**Текст:** "„Für den Mann mit dem Arm.""
+**Идея:** Хильде подмигивает: белая реплика «Für den Mann mit dem Arm.».
+**Эталоны:** Hilde + Felix + кадр 219
+**Prompt:**
+```
+Inside the same modern white high-speed train carriage as in the reference, evening, rainy dark-blue window, small table between the seats: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron, plain white hands) winks at Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) with a warm smile, Felix holds the plum cake in the napkin; next to Hilde a normal solid WHITE comic speech bubble spelled exactly "Für den Mann mit dem Arm.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 234** · `234_09-37` · 9:37.1–9:39.4
+**Текст:** "Dann steigst du aus und rennst."
+**Идея:** Ночь, дождь: Феликс выскакивает из белого поезда и бежит по перрону, пирог в салфетке в руке.
+**Эталоны:** Felix + кадр 218
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, rainy small German train station: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) jumps out of the open door of a modern white high-speed train and runs along the wet platform, holding the plum cake in a white napkin carefully in one hand, speed lines behind him. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 235** · `235_09-39` · 9:39.4–9:43.1
+**Текст:** "Und so stehst du hier. Dritter Stock, zwei Uhr nachts."
+**Идея:** ГЛАВНЫЙ КАДР «больница» (как кадр 1): ночной коридор, холодный неон, табличка «3», Феликс стоит один.
+**Эталоны:** Felix + кадр 1
+**Prompt:**
+```
+Flat 2D vector cartoon. Night in a German hospital: long quiet symmetrical corridor with cold blue-white neon ceiling lights, light-blue walls with blue doors and blue handrails, shiny green floor, on the right wall a big white sign with a black number "3"; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stands alone in the middle of the corridor, tired, looking toward the viewer. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 236** · `236_09-43` · 9:43.1–9:46.8
+**Текст:** "Mit Automatenkaffee und einem Stück Pflaumenkuchen in einer Serviette."
+**Идея:** Крупно руки Феликса: бумажный стаканчик кофе из автомата и пирог в салфетке.
+**Эталоны:** Felix + кадр 235
+**Prompt:**
+```
+Night in a German hospital, third floor, the same place as in the reference: long quiet corridor with cold blue-white neon ceiling lights, light-blue walls, blue handrails, a glass door to a patient room: close-up of Felix's two white cartoon hands and light-blue denim sleeves: one hand holds a paper cup of vending machine coffee with a little steam, the other holds a slice of plum cake in a white paper napkin. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 237** · `237_09-46` · 9:46.8–9:49.4
+**Текст:** "Über ihm: „Ich bin stolz auf dich.""
+**Идея:** Через стеклянную дверь: папа спит в палате с рукой на перевязи, над ним бледное серое облачко «Ich bin stolz auf dich.».
+**Эталоны:** Papa + кадр 235 + дымное облачко
+**Prompt:**
+```
+Night in a German hospital, third floor, the same place as in the reference: long quiet corridor with cold blue-white neon ceiling lights, light-blue walls, blue handrails, a glass door to a patient room: view through the glass door into the dark patient room: Papa Klaus (62, bald top with grey side hair, short grey beard) sleeps in the hospital bed with his right arm in a blue sling, a small plaster on his head; above his head floats a very pale grey semi-transparent smoke speech bubble with faint grey letters spelled exactly "Ich bin stolz auf dich.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 238** · `238_09-49` · 9:49.4–9:54.0
+**Текст:** "So blass, dass du nicht mehr sicher bist, ob du es liest oder dich nur daran erinnerst."
+**Идея:** Крупно облачко почти прозрачное, буквы тают и рассыпаются.
+**Эталоны:** дымное облачко + кадр 237
+**Prompt:**
+```
+Flat 2D vector cartoon. Night, dark-blue hospital room background with the moon in the window: extreme close-up of an almost transparent pale grey smoke speech bubble, the faint letters spelled "Ich bin stolz auf dich." are fading and dissolving into tiny grey particles at the edges, barely readable. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 239** · `239_09-54` · 9:54.0–9:56.6
+**Текст:** "Um zwei Uhr dreißig öffnet er die Augen."
+**Идея:** Палата: часы на стене 2:30, папа в кровати открывает глаза.
+**Эталоны:** Papa + кадр 237
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a drip stand, a heart monitor, a bedside table with a glass of water and a blue book: Papa Klaus (62, bald top with grey side hair, short grey beard) in a light-blue hospital gown lies in bed with his right arm in a blue sling and slowly opens his eyes (small black dot eyes); on the wall a simple round analog clock shows half past two. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 240** · `240_09-56` · 9:56.6–9:57.8
+**Текст:** "Du gehst hinein."
+**Идея:** Феликс открывает стеклянную дверь и входит в палату с кофе и пирогом.
+**Эталоны:** Felix + кадр 235
+**Prompt:**
+```
+Night in a German hospital, third floor, the same place as in the reference: long quiet corridor with cold blue-white neon ceiling lights, light-blue walls, blue handrails, a glass door to a patient room: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) seen from the side pushes open the glass door and steps into the dark patient room, holding the coffee cup and the plum cake in the napkin; inside the room the bed is visible. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 241 начинается в 9:57.8 со слов «Er sieht dich und sagt …»*

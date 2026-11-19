@@ -980,4 +980,143 @@ Flat 2D vector cartoon. The same dairy aisle: above his old German teacher Frau 
 ```
 
 ---
-*Следующий кадр 106 начинается в 3:55.7 со слов «„Dein Aufsatz in der achten Klasse …“»*
+
+## Кадры 106–120 (сокращённая версия)
+
+**КАДР 106** · `106_03-55` · 3:55.7–3:59.8
+**Текст:** "„Dein Aufsatz in der achten Klasse war der beste, den ich je gelesen habe.""
+**Идея:** Крупно фрау Брандт, над ней старое бледное облачко с фразой, буквы выцветшие, но читаются. (high — длинный текст)
+**Эталоны:** кадр 103 (Брандт)
+**Prompt:**
+```
+Evening in the same supermarket dairy aisle as in the reference (fridges with plain yogurt cups without brands): close-up of Frau Brandt (72, short white bob, glasses on a beaded chain, purple cardigan) smiling; above her head floats a very old, pale grey semi-transparent smoke speech bubble with cracked frayed edges, containing faded but correctly spelled letters, the text spelled exactly "Dein Aufsatz in der achten Klasse war der beste, den ich je gelesen habe.", every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 107** · `107_03-59` · 3:59.8–4:02.3
+**Текст:** "Du hast eine Vier auf diesen Aufsatz bekommen."
+**Идея:** Воспоминание в сепии: класс, молодая фрау Брандт отдаёт 14-летнему Феликсу сочинение с красной «4».
+**Эталоны:** Felix (подросток) + кадр 103 (Брандт)
+**Prompt:**
+```
+Flat 2D vector cartoon. Sepia-toned school memory with soft film grain: a classroom, a younger Frau Brandt (45, short dark-blond bob, glasses on a chain) hands back an essay to teenage Felix (14, curly dark-blond hair, hoodie) at his desk; on the paper a big red handwritten grade spelled exactly "4". Felix looks disappointed. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 108** · `108_04-02` · 4:02.3–4:03.5
+**Текст:** "Eine Vier."
+**Идея:** Крупно страница сочинения с жирной красной «4» в кружке.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Sepia-toned close-up of an old school essay page with lines of unreadable scribbled handwriting and a big bold red circled grade spelled exactly "4" in the corner. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 109** · `109_04-03` · 4:03.5–4:07.7
+**Текст:** "Du stehst zwischen den Joghurts und weißt nicht, ob du lachen oder weinen sollst."
+**Идея:** Молочный отдел: Феликс с корзинкой между йогуртами, лицо — смех и слёзы одновременно; фрау Брандт уходит, махая рукой.
+**Эталоны:** Felix + кадр 103
+**Prompt:**
+```
+Evening in the same supermarket dairy aisle as in the reference (fridges with plain yogurt cups without brands): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with a black backpack and a shopping basket stands between the yogurt fridges with a mixed face: laughing mouth and teary eyes at the same time; in the background Frau Brandt (72, short white bob, glasses on a beaded chain, purple cardigan) walks away waving happily. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 110** · `110_04-07` · 4:07.7–4:10.3
+**Текст:** "Sogar über Videoanrufen funktioniert es."
+**Идея:** Вечер в квартире: Феликс на диване, на ноутбуке входящий видеозвонок (без логотипов).
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Evening in Felix's same apartment as in the reference (grey sofa, plants, warm lamp): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) without backpack sits on the grey sofa with a laptop on his knees; the laptop screen shows an incoming video call with a simple green phone icon, no app logo. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 111** · `111_04-10` · 4:10.3–4:12.0
+**Текст:** "Ben ruft aus Vancouver an,"
+**Идея:** Экран ноутбука: Бен машет из Ванкувера, за ним окно с горами и морем (без достопримечательностей).
+**Эталоны:** Ben + кадр 25
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of the laptop screen in Felix's apartment: on the screen Ben (28, tall, short black curly hair, light stubble, red plaid flannel shirt) waves happily in a video call; behind him a window with generic mountains and the sea at daytime, no famous buildings. Simple video-call frame without any app logo. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 112** · `112_04-12` · 4:12.0–4:14.4
+**Текст:** "über seinem Kopf schwebt eine Blase."
+**Идея:** На экране над Беном серое облачко, но оно пикселизировано, как плохое видео.
+**Эталоны:** Ben + кадр 111
+**Prompt:**
+```
+Flat 2D vector cartoon. The same laptop screen with Ben (28, tall, short black curly hair, light stubble, red plaid flannel shirt) on a video call: above his head on the screen floats a grey semi-transparent smoke speech bubble, but it is blurry and pixelated like a low-quality video stream, completely unreadable. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 113** · `113_04-14` · 4:14.4–4:16.0
+**Текст:** "Du lehnst dich zum Bildschirm."
+**Идея:** Феликс наклоняется к ноутбуку почти носом в экран и щурится.
+**Эталоны:** Felix + кадр 110
+**Prompt:**
+```
+Evening in Felix's same apartment as in the reference (grey sofa, plants, warm lamp): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) leans forward on the sofa with his nose almost touching the laptop screen, squinting hard to read something. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 114** · `114_04-16` · 4:16.0–4:17.9
+**Текст:** "Die Auflösung ist zu schlecht."
+**Идея:** Крупно экран: Бен и облачко рассыпаются на крупные пиксели.
+**Эталоны:** Ben + кадр 111
+**Prompt:**
+```
+Flat 2D vector cartoon. Extreme close-up of the laptop screen: the image of Ben (28, tall, short black curly hair, light stubble, red plaid flannel shirt) and the grey bubble above him break up into big blocky pixels, completely unreadable, a small loading circle icon. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 115** · `115_04-17` · 4:17.9–4:19.1
+**Текст:** "„Was guckst du so?""
+**Идея:** Бен на экране с подозрением, белая реплика «Was guckst du so?».
+**Эталоны:** Ben + кадр 111
+**Prompt:**
+```
+Flat 2D vector cartoon. The laptop screen with Ben (28, tall, short black curly hair, light stubble, red plaid flannel shirt) on a video call looking suspicious with one raised eyebrow; next to him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Was guckst du so?". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 116** · `116_04-19` · 4:19.1–4:21.2
+**Текст:** "„Nichts. Dein WLAN ist schlecht.""
+**Идея:** Феликс отпрянул от экрана с невинным лицом, белая реплика «Nichts. Dein WLAN ist schlecht.».
+**Эталоны:** Felix + кадр 110
+**Prompt:**
+```
+Evening in Felix's same apartment as in the reference (grey sofa, plants, warm lamp): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) quickly leans back from the laptop with an innocent fake smile; above him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Nichts. Dein WLAN ist schlecht.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 117** · `117_04-21` · 4:21.2–4:23.8
+**Текст:** "Und dann gibt es Menschen ohne Blase."
+**Идея:** Улица: в толпе с облачками один человек без облачка подсвечен — его воздух пуст.
+**Эталоны:** кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime on the same German street as in the reference: several passers-by with grey smoke speech bubbles above their heads; in the middle one man in a blue coat has NO bubble at all, he is gently highlighted by a soft light circle. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No famous landmarks, no towers, no flags, no logos, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 118** · `118_04-23` · 4:23.8–4:24.8
+**Текст:** "Fremde."
+**Идея:** Мимо проходят незнакомцы — у них нет облачков, им нечего тебе сказать.
+**Эталоны:** кадр 66 (улица)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same street: three strangers (a jogger, a woman with a stroller, a delivery man) walk past without any speech bubbles above their heads, not looking at the viewer. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms each, YouTube what-if animation style. No famous landmarks, no towers, no flags, no logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 119** · `119_04-24` · 4:24.8–4:26.8
+**Текст:** "Aber auch ein paar, die du kennst."
+**Идея:** Подъезд дома Феликса: дружелюбный пожилой сосед машет ему, над соседом облачка нет — Феликс удивлён.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. The staircase of Felix's apartment building: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack stops on the stairs, surprised; his friendly old neighbour (75, bald, white moustache, beige cardigan) waves at him with a big smile, and there is NO speech bubble above the neighbour at all, just empty air. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 120** · `120_04-26` · 4:26.8–4:29.7
+**Текст:** "Eine Woche lang ist das Leben eine Komödie mit Untertiteln."
+**Идея:** Феликс с попкорном на диване хохочет, как над ситкомом, а «экраном» служит окно с улицей и облачками-субтитрами.
+**Эталоны:** Felix + кадр 25 (квартира)
+**Prompt:**
+```
+Evening in Felix's same apartment as in the reference (grey sofa, plants, warm lamp): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) sits on the grey sofa with a bowl of popcorn, laughing like watching a sitcom; the big window in front of him works like a TV screen showing the street below, where passers-by have grey smoke speech bubbles like subtitles (blurry, unreadable). Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 121 начинается в 4:29.7 со слов «Dann fährst du nach Fulda, und die Komödie hört auf.»*

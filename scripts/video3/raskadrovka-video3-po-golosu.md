@@ -1258,4 +1258,143 @@ Sunday afternoon in the same cosy family living room as in the reference, a coff
 ```
 
 ---
-*Следующий кадр 136 начинается в 5:12.5 со слов «Und dann erzählt sie.»*
+
+## Кадры 136–150 (сокращённая версия)
+
+**КАДР 136** · `136_05-12` · 5:12.5–5:14.1
+**Текст:** "Und dann erzählt sie."
+**Идея:** Мама оживлённо рассказывает, жестикулируя, Феликс слушает, подперев подбородок.
+**Эталоны:** Felix, Mama + кадр 132 (гостиная)
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) sits at the table and tells a story with lively hand gestures and a bright face; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) listens attentively, chin on his hand, his phone face-down at the edge of the table; her light grey semi-transparent smoke speech bubble floating above her head with blurry unreadable scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 137** · `137_05-14` · 5:14.1–5:15.6
+**Текст:** "Eine Stunde lang."
+**Идея:** Настенные часы: стрелка прошла целый час, пирог наполовину съеден.
+**Эталоны:** кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: close-up of a round wall clock above the sofa: motion lines show the minute hand having swept a full circle, the hour hand now at 4; below it the table with the cake now half eaten. No people in focus. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 138** · `138_05-15` · 5:15.6–5:19.6
+**Текст:** "Und irgendwann, zwischen dem zweiten Stück Bienenstich und dem dritten Kaffee,"
+**Идея:** Крупно стол: тарелки с крошками, мама наливает третью чашку кофе.
+**Эталоны:** кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: close-up of the table: two plates with cake crumbs and a fork, Mama's hand pours a third cup of coffee from the coffee pot, the half-eaten Bienenstich in the background. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 139** · `139_05-19` · 5:19.6–5:21.1
+**Текст:** "sagt sie ganz leise:"
+**Идея:** Мама тихо смотрит в свою чашку, плечи опущены, лицо мягкое и уязвимое.
+**Эталоны:** Mama + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: medium close-up of Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) looking down into her coffee cup, holding it with both hands, shoulders slightly lowered, a soft vulnerable face; her light grey semi-transparent smoke speech bubble floating above her head with blurry unreadable scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 140** · `140_05-21` · 5:21.1–5:27.2
+**Текст:** "„Weißt du, in Hamburg … da hatte ich manchmal solche Angst, dass du nie wieder nach Hause kommst.""
+**Идея:** Мама говорит это вслух: белая реплика с фразой, а серое облачко над ней начинает светиться. (high)
+**Эталоны:** Mama, Felix + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) speaks quietly to Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) across the table; next to her mouth a normal solid WHITE comic speech bubble (not grey) spelled exactly "Weißt du, in Hamburg … da hatte ich manchmal solche Angst, dass du nie wieder nach Hause kommst." in clear letters, every letter correct; above her head her grey smoke bubble begins to glow softly from inside. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 141** · `141_05-27` · 5:27.2–5:29.2
+**Текст:** "Die Blase leuchtet weiß auf"
+**Идея:** Серое облачко над мамой вспыхивает ярким белым светом, Феликс смотрит вверх.
+**Эталоны:** Mama, Felix + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: above the head of Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) the speech bubble suddenly glows bright white, radiating soft light rays over the table; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) looks up at it in awe. No text in the bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 142** · `142_05-29` · 5:29.2–5:32.5
+**Текст:** "und zerplatzt in tausend kleine Lichter über dem Kuchen."
+**Идея:** Облачко лопается на тысячу маленьких огоньков, они падают над пирогом, как тёплый снег.
+**Эталоны:** Mama, Felix + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: the glowing bubble above Mama bursts into a thousand tiny warm golden-white lights that float down over the Bienenstich cake like gentle snow; Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) look up, smiling with wonder. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 143** · `143_05-32` · 5:32.5–5:34.8
+**Текст:** "„Ich bin ja jetzt da", sagst du."
+**Идея:** Феликс накрывает мамину руку своей, белая реплика «Ich bin ja jetzt da.»; мама улыбается сквозь слёзы.
+**Эталоны:** Felix, Mama + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy living room as in the reference, the coffee table with the Bienenstich cake, cups and coffee pot: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) places his hand on Mama's hand on the table; above him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Ich bin ja jetzt da."; Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) laughs and cries at the same time, a tear on her cheek; a few last tiny lights still floating; no grey bubble above Mama any more. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 144** · `144_05-34` · 5:34.8–5:37.2
+**Текст:** "Warum sagen wir solche Sätze nicht einfach?"
+**Идея:** Метафора: человек держит фразу запертой в стеклянной банке, крышка закручена.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Simple explainer illustration on a soft beige background: a plain stickman holds a glass jar with a closed lid; inside the jar a small grey smoke speech bubble is trapped, pressing against the glass. A big question mark floats above the stickman. Thick black outlines, flat colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 145** · `145_05-37` · 5:37.2–5:39.7
+**Текст:** "Wir schweigen nicht, weil der Satz unwichtig ist."
+**Идея:** Тот же человек бережно обнимает банку с облачком, как сокровище, — фраза ему очень важна.
+**Эталоны:** кадр 144
+**Prompt:**
+```
+Flat 2D vector cartoon. The same beige explainer style and the same plain stickman as in the reference: he hugs the glass jar with the grey bubble inside close to his chest like a precious treasure, with a few small hearts around it. Thick black outlines, flat colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 146** · `146_05-39` · 5:39.7–5:43.3
+**Текст:** "Wir schweigen, weil wir falsch einschätzen, wie viel er bedeutet."
+**Идея:** Человек смотрит на крошечное облачко в лупу и пожимает плечами, а за его спиной то же облачко огромное и сияет.
+**Эталоны:** кадр 144
+**Prompt:**
+```
+Flat 2D vector cartoon. The same beige explainer style and the same plain stickman: he looks through a magnifying glass at a tiny grey speech bubble in his palm and shrugs as if it were nothing; behind him, unseen by him, the same bubble towers huge and glowing, ten times bigger than him. Exaggerated scale. Thick black outlines, flat colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 147** · `147_05-43` · 5:43.3–5:45.4
+**Текст:** "Über dir sehe ich übrigens keine Blase."
+**Идея:** Обращение к зрителю: зритель со спины на диване с телефоном, воздух над его головой пуст.
+**Эталоны:** нет (зритель)
+**Prompt:**
+```
+Flat 2D vector cartoon. A cartoon YouTube viewer seen from behind: a plain stickman with a round pure white head sitting on a sofa in a dim evening room, holding a smartphone; the air above his head is completely empty, a soft dotted circle hints where a bubble could be, but there is none. Cosy, slightly playful mood. Thick black outlines, flat bright colors, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 148** · `148_05-45` · 5:45.4–5:48.6
+**Текст:** "Aber ich sehe, dass du noch nicht abonniert hast."
+**Идея:** Тот же зритель: на экране его телефона большая красная кнопка «ABONNIEREN», ещё не нажата.
+**Эталоны:** кадр 147
+**Prompt:**
+```
+Flat 2D vector cartoon. The same viewer as in the reference seen from behind on the sofa; close over his shoulder we see his smartphone screen with one big red rounded button spelled exactly "ABONNIEREN" (plain, no platform logo), not pressed yet; a small playful arrow points at it. Thick black outlines, flat bright colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 149** · `149_05-48` · 5:48.6–5:50.2
+**Текст:** "Das lässt sich ändern."
+**Идея:** Большой палец нажимает кнопку, она становится серой «ABONNIERT» с колокольчиком, вокруг маленькие искорки.
+**Эталоны:** кадр 148
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of the same smartphone screen: a simple round white cartoon thumb presses the button, which turns grey and is now spelled exactly "ABONNIERT", with a small ringing bell icon next to it and a few tiny celebration sparkles. Thick black outlines, flat bright colors, YouTube what-if animation style. No platform logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 150** · `150_05-50` · 5:50.2–5:53.7
+**Текст:** "Auf dem Heimweg fühlst du dich, als hättest du einen Schatz gefunden."
+**Идея:** Вечерний поезд домой: Феликс сияет и прижимает к себе маленький светящийся сундучок-сокровище.
+**Эталоны:** Felix + кадр 121 (поезд)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening inside the same red regional train as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack sits by the window, beaming with happiness, holding a small glowing treasure chest on his lap with warm golden light coming out of it. Dark blue evening outside. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 151 начинается в 5:53.7 со слов «Bis dir einfällt, dass du deinen Vater heute kaum angesehen hast.»*

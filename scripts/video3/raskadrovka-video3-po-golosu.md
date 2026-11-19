@@ -1536,4 +1536,143 @@ Early autumn afternoon at a small old stone bridge over the calm river on the sa
 ```
 
 ---
-*Следующий кадр 166 начинается в 6:39.5 со слов «„Papa, wie geht's dir eigentlich? Also, wirklich?“»*
+
+## Кадры 166–180 (сокращённая версия)
+
+**КАДР 166** · `166_06-39` · 6:39.5–6:42.9
+**Текст:** "„Papa, wie geht's dir eigentlich? Also, wirklich?""
+**Идея:** Мост: Феликс спрашивает папу, белая реплика с вопросом; папа с бутылкой воды.
+**Эталоны:** Felix, Papa + кадр 165 (мост)
+**Prompt:**
+```
+Early autumn afternoon at the same old stone bridge over the river as in the reference, green and blue bikes at the railing: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with a bike helmet turns to Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) with a bike helmet and asks; above Felix a normal solid WHITE comic speech bubble (not grey) spelled exactly "Papa, wie geht's dir eigentlich? Also, wirklich?"; Papa holds a water bottle; a very pale, almost transparent grey smoke speech bubble with frayed edges floating above Papa's head. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 167** · `167_06-42` · 6:42.9–6:46.4
+**Текст:** "Er schaut dich an, als hättest du gefragt, ob er Ballett tanzt."
+**Идея:** Папа смотрит на Феликса в полном недоумении; рядом маленькая мысль-картинка: папа в балетной пачке.
+**Эталоны:** Papa + кадр 165
+**Prompt:**
+```
+Early autumn afternoon at the same old stone bridge over the river as in the reference, green and blue bikes at the railing: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) stares at Felix in total confusion with raised eyebrows, holding his water bottle frozen; next to Papa a small round thought cloud shows a tiny funny doodle of Papa himself in a pink ballet tutu doing a pirouette. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 168** · `168_06-46` · 6:46.4–6:49.9
+**Текст:** "„Gut. Und dir?" – „Auch gut." – „Na dann.""
+**Идея:** Оба отвернулись к реке, короткие белые реплики «Gut. Und dir?», «Auch gut.», «Na dann.».
+**Эталоны:** Felix, Papa + кадр 165
+**Prompt:**
+```
+Early autumn afternoon at the same old stone bridge over the river as in the reference, green and blue bikes at the railing: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) both look away at the river, awkward; normal solid WHITE comic speech bubbles (not grey): above Papa "Gut. Und dir?" and "Na dann.", above Felix "Auch gut.", each spelled exactly. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 169** · `169_06-49` · 6:49.9–6:52.9
+**Текст:** "Die Blase flackert kurz, als hätte sie gehofft."
+**Идея:** Бледное облачко над папой на секунду мерцает тёплым светом.
+**Эталоны:** Papa + кадр 165
+**Prompt:**
+```
+Early autumn afternoon at the same old stone bridge over the river as in the reference, green and blue bikes at the railing: close-up of Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) looking at the river; a very pale, almost transparent grey smoke speech bubble with frayed edges floating above Papa's head flickers for a moment with a faint warm glow and small flicker lines around it, as if it hoped. No readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 170** · `170_06-52` · 6:52.9–6:54.6
+**Текст:** "Dann ist sie wieder still."
+**Идея:** Облачко снова тусклое и неподвижное, папа надевает шлем — едем дальше.
+**Эталоны:** Papa + кадр 165
+**Prompt:**
+```
+Early autumn afternoon at the same old stone bridge over the river as in the reference, green and blue bikes at the railing: a very pale, almost transparent grey smoke speech bubble with frayed edges floating above Papa's head is dull and still again, without glow; Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) puts his bike helmet back on, ready to ride on, Felix in the background reaching for his bike. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 171** · `171_06-54` · 6:54.6–6:56.0
+**Текст:** "Zweiter Versuch."
+**Идея:** Гараж: Феликс решительно входит с телефоном в руке.
+**Эталоны:** Felix + кадр 152 (гараж)
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack walks into the garage with a determined face, holding up his smartphone; Papa at the workbench in the background. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 172** · `172_06-56` · 6:56.0–6:58.8
+**Текст:** "Du zeigst ihm das Plakat für deinen großen Kunden."
+**Идея:** Феликс показывает папе на телефоне яркий плакат.
+**Эталоны:** Felix, Papa + кадр 152
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) holds his phone out toward Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) showing a colorful bold poster design on the screen (abstract shapes, no readable text); Papa leans in to look, rag in hand. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 173** · `173_06-58` · 6:58.8–7:00.7
+**Текст:** "Dein bestes Projekt."
+**Идея:** Крупно экран телефона: красочный плакат с геометрией, вокруг маленькие звёздочки гордости.
+**Эталоны:** кадр 172
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of a smartphone screen in Felix's hand: a beautiful colorful poster design with bold geometric shapes, waves and a stylized sun, no readable text, no logos; small proud sparkles around the phone. Thick black outlines, flat bright colors, YouTube what-if animation style. No text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 174** · `174_07-00` · 7:00.7–7:03.5
+**Текст:** "Er schaut lange darauf. Sehr lange."
+**Идея:** Папа долго молча смотрит на экран; на стене гаража часы, у Феликса на лбу капля напряжения.
+**Эталоны:** Felix, Papa + кадр 152
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) stares at the phone screen for a long time without any expression; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) holds his breath with a small sweat drop; a wall clock in the garage with motion lines on the minute hand. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 175** · `175_07-03` · 7:03.5–7:05.9
+**Текст:** "Dann sagt er: „Schön bunt.""
+**Идея:** Папа кивает с каменным лицом, белая реплика «Schön bunt.».
+**Эталоны:** Papa + кадр 152
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) gives a short nod with a deadpan face; next to him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Schön bunt."; Felix's shoulders drop. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 176** · `176_07-05` · 7:05.9–7:10.9
+**Текст:** "Schön bunt. Und darüber, ganz blass: „Ich bin stolz auf dich.""
+**Идея:** Две фразы над папой одновременно: белая «Schön bunt.» и над ней бледное серое «Ich bin stolz auf dich.» (high)
+**Эталоны:** Papa + кадр 152
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: close-up of Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries): next to his mouth a small normal solid WHITE speech bubble spelled exactly "Schön bunt."; higher above his head a very pale, almost transparent grey smoke speech bubble with frayed edges spelled exactly "Ich bin stolz auf dich." in faint but correct letters. Every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 177** · `177_07-10` · 7:10.9–7:14.5
+**Текст:** "Psychologen nennen das die Illusion der Transparenz."
+**Идея:** Объяснение: человечек из стекла, внутри видно сердце; надпись «ILLUSION DER TRANSPARENZ».
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Simple explainer illustration on a soft beige background: a plain stickman made of clear glass, a small red heart visible inside his chest; above him a clean label spelled exactly "ILLUSION DER TRANSPARENZ". Thick black outlines, flat colors, YouTube what-if animation style. No logos, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 178** · `178_07-14` · 7:14.5–7:18.6
+**Текст:** "Wir glauben, andere sehen unsere Gefühle viel deutlicher, als sie es tun."
+**Идея:** Стеклянный человечек думает, что сердце видно, а другой смотрит на него — и видит только обычного, непрозрачного.
+**Эталоны:** кадр 177
+**Prompt:**
+```
+Flat 2D vector cartoon. Same beige explainer style: on the left the glass stickman with his visible red heart points at it proudly; on the right another plain stickman looks at him, and in that stickman's thought cloud the first one appears completely ordinary and opaque, no heart visible. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 179** · `179_07-18` · 7:18.6–7:21.9
+**Текст:** "Dein Vater denkt: Er weiß doch, dass ich stolz bin."
+**Идея:** Папа за верстаком, у него мысль-облако: он машет на выпускном — «он же знает».
+**Эталоны:** Papa + кадр 152
+**Prompt:**
+```
+Late afternoon in the same family garage as in the reference: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, no injuries) at the workbench with a calm self-satisfied face; above him a round thought cloud (not a speech bubble) shows a tiny memory of himself clapping at Felix's graduation. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 180** · `180_07-21` · 7:21.9–7:25.4
+**Текст:** "Und du denkst: Er weiß doch, dass ich ihm dankbar bin."
+**Идея:** Феликс у ворот гаража, у него мысль-облако: он едет с папой на велосипедах — «он же знает».
+**Эталоны:** Felix + кадр 152
+**Prompt:**
+```
+Late afternoon at the open door of the same family garage as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with a calm self-satisfied face; above him a round thought cloud (not a speech bubble) shows a tiny picture of him and Papa riding their bikes along the river. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 181 начинается в 7:25.4 со слов «Zwei Menschen. Zwei Sätze.»*

@@ -1934,7 +1934,7 @@ Grey wet autumn Sunday on the same riverside bike path as in the reference, wet 
 Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) brakes hard on the blue bike, frozen in horror, staring ahead; a big jagged cartoon impact burst shape in front of him without any letters. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
 ```
 
-**КАДР 209** · `209_08-34` · 8:34.8–8:38.2
+**КАДР 209** · `209_08-34` · 8:34.8–8:37.2
 **Текст:** "Und dann liegt er neben dem Radweg und sagt:"
 **Идея:** Папа сидит на мокрой траве у дорожки, велосипед лежит рядом, шлем на голове.
 **Эталоны:** Papa + кадр 202
@@ -1943,7 +1943,7 @@ Grey wet autumn Sunday on the same riverside bike path as in the reference, wet 
 Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) with his helmet sits on the wet grass next to the bike path, holding his right arm against his body, the green bike lying on the ground beside him, leaves around. No blood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
 ```
 
-**КАДР 210** · `210_08-38` · 8:38.2–8:40.2
+**КАДР 210** · `210_08-37` · 8:37.2–8:39.3
 **Текст:** "„Geht schon. Geht schon.""
 **Идея:** Папа машет здоровой рукой и пытается улыбнуться, белая реплика «Geht schon. Geht schon.».
 **Эталоны:** Papa + кадр 209
@@ -1953,4 +1953,140 @@ Grey wet autumn Sunday on the same riverside bike path as in the reference, wet 
 ```
 
 ---
-*Следующий кадр 211 начинается в 8:40.2 со слов «Es geht nicht.»*
+**КАДР 211** · `211_08-39` · 8:39.3–8:40.4
+**Текст:** "Es geht nicht."
+**Идея:** Улыбка папы гаснет, Феликс присел рядом и серьёзно смотрит на него.
+**Эталоны:** Felix + Papa + кадр 210
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack, blue bike helmet) kneels on the wet grass next to Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket, dark grey helmet), who sits holding his right arm close to his body; Papa's forced smile has faded into a pained face with one raised eyebrow, Felix looks at him with serious worried eyes. The green bike lies nearby. No blood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 212** · `212_08-40` · 8:40.4–8:42.9
+**Текст:** "Sein Arm hängt in einem seltsamen Winkel."
+**Идея:** Крупно лицо Феликса: глаза расширились, он смотрит вниз на папину руку (руку не показываем, без травмы).
+**Эталоны:** Felix + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: close-up of Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack, blue bike helmet): his eyes widen in shock as he looks down at something just below the frame (the injury is NOT shown), raindrops on his face, mouth slightly open. Only Felix in the frame. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 213** · `213_08-42` · 8:42.9–8:44.8
+**Текст:** "Im Rettungswagen darfst du nicht mit."
+**Идея:** Белая скорая без надписей у дорожки, санитар закрывает задние двери, Феликс стоит снаружи с поднятой рукой.
+**Эталоны:** Felix + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: a plain white ambulance van with an orange stripe and blue lights, no letters, no symbols, parked at the edge of the path, rear doors closing; a paramedic in a red jacket gently raises his palm toward Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack, blue bike helmet), who stands outside in the rain with his hand half raised, not allowed to get in. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no red cross, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 214** · `214_08-44` · 8:44.8–8:47.7
+**Текст:** "Du stehst da mit zwei Fahrrädern und deinem Satz."
+**Идея:** Феликс один под дождём держит два велосипеда (синий и зелёный), скорая уезжает вдали, над ним его бледное серое облачко.
+**Эталоны:** Felix + кадр 202 + дымное облачко
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack, blue bike helmet) stands alone in the rain holding two bikes by the handlebars, the blue one and the old green one; far away the white ambulance drives off; above Felix's head floats his small pale grey semi-transparent smoke speech bubble without readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 215** · `215_08-47` · 8:47.7–8:50.4
+**Текст:** "Deinem Satz, den du wieder nicht gesagt hast."
+**Идея:** Крупно: бледное дымное облачко над мокрой головой Феликса, внутри едва видно «Danke, Papa. Für alles.».
+**Эталоны:** Felix + дымное облачко 933e0f98
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: close-up of the top of Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack, blue bike helmet)'s wet helmet from slightly behind, above him a pale grey semi-transparent smoke speech bubble like in the reference, in faint grey letters spelled exactly "Danke, Papa. Für alles.", raindrops falling through the bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 216** · `216_08-50` · 8:50.4–8:52.7
+**Текст:** "Zum Klinikum sind es elf Kilometer,"
+**Идея:** Простая карта: дорожка у реки, пунктир до больницы, подпись «11 km».
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon. A simple stylized map in pastel green and blue: a winding river, a small bike icon on the riverside path at the left, a red dashed line running to a simple white hospital building icon at the right, and next to the line a white label spelled exactly "11 km". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no red cross, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 217** · `217_08-52` · 8:52.7–8:56.2
+**Текст:** "und natürlich fällt der Regionalzug aus. Natürlich."
+**Идея:** Мокрый Феликс на перроне с каменным лицом смотрит на табло «Zug fällt aus».
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. A small rainy German train platform in the grey afternoon: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack), soaking wet, stands with a flat deadpan face and dot eyes, staring at a simple departure display board that shows in white letters spelled exactly "Zug fällt aus"; an empty track. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 218** · `218_08-56` · 8:56.2–9:01.1
+**Текст:** "Du nimmst den ICE, eine Station, fünfundzwanzig Minuten Verspätung."
+**Идея:** ГЛАВНЫЙ КАДР «скоростной поезд»: Феликс у окна в белом скоростном поезде, над проходом табло «+25 Min».
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Inside a modern white high-speed train in the evening (no logos, no company names): grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) sits by the window, tired and tense, tapping his knee; above the aisle a small digital display shows in orange letters spelled exactly "+25 Min". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 219** · `219_09-01` · 9:01.1–9:06.2
+**Текст:** "Dir gegenüber sitzt eine alte Frau mit runder Brille und einer Plastikdose auf dem Schoß."
+**Идея:** Напротив Феликса за столиком садится Ома Хильде с пластиковым контейнером на коленях.
+**Эталоны:** Hilde + Felix + кадр 218
+**Prompt:**
+```
+Inside a modern white high-speed train in the evening, the same carriage as in the reference: grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) sits by the window; across the small table sits Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) with a plastic food box on her lap, both hands resting on the lid. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 220** · `220_09-06` · 9:06.2–9:09.8
+**Текст:** "Und über ihr schwebt: nichts. Keine Blase."
+**Идея:** Крупно Хильде, над её головой пусто и светло; Феликс удивлённо смотрит вверх над ней.
+**Эталоны:** Hilde + Felix + кадр 219
+**Prompt:**
+```
+Inside a modern white high-speed train in the evening, the same carriage as in the reference: grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) smiles calmly; the air above her head is completely empty and softly lit, no bubble at all; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) in the foreground at the edge looks up above her head in surprise. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 221** · `221_09-09` · 9:09.8–9:14.2
+**Текст:** "Du kennst sie. Die Frau mit dem Pflaumenkuchen, aus dem Zug nach Berlin."
+**Идея:** Сепия-воспоминание: год назад в поезде Хильде протягивает Феликсу кусок сливового пирога.
+**Эталоны:** Hilde + Felix + сепия 147ba02d
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette: inside a train compartment last year, Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) happily hands Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) a slice of plum cake from her plastic box; both smile. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 222** · `222_09-14` · 9:14.2–9:16.9
+**Текст:** "Sie erkennt dich auch. „Der Junge mit der Mama!"
+**Идея:** Хильде узнала Феликса, радостно показывает на него: белая реплика «Der Junge mit der Mama!».
+**Эталоны:** Hilde + Felix + кадр 219
+**Prompt:**
+```
+Inside a modern white high-speed train in the evening, the same carriage as in the reference: grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) recognizes Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) and points at him happily with a big smile; next to her a normal solid WHITE comic speech bubble spelled exactly "Der Junge mit der Mama!". Felix smiles shyly. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 223** · `223_09-16` · 9:16.9–9:19.0
+**Текст:** "Und? Haben Sie angerufen?""
+**Идея:** Хильде с поднятыми бровями спрашивает: белая реплика «Und? Haben Sie angerufen?».
+**Эталоны:** Hilde + кадр 219
+**Prompt:**
+```
+Inside a modern white high-speed train in the evening, the same carriage as in the reference: grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) leans forward with raised eyebrows and a curious smile; next to her a normal solid WHITE comic speech bubble spelled exactly "Und? Haben Sie angerufen?". Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) sits across from her. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 224** · `224_09-19` · 9:19.0–9:22.0
+**Текст:** "Sie nickt langsam. Sie hat mal einen Mann gehabt."
+**Идея:** Хильде медленно кивает, задумчиво смотрит в окно, рядом облако-мысль с силуэтом мужа.
+**Эталоны:** Hilde + кадр 219
+**Prompt:**
+```
+Inside a modern white high-speed train in the evening, the same carriage as in the reference: grey seats with a small table, large windows with a dark-blue rainy evening landscape rushing by: Oma Hilde (old woman, grey hair bun, round glasses, light-blue cardigan, green flower apron) nods slowly and looks out of the window thoughtfully, a gentle sad smile; next to her head a round white thought cloud with small circles leading to it, inside it a simple drawing of an old man with a flat cap. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 225** · `225_09-22` · 9:22.0–9:23.4
+**Текст:** "Achtundvierzig Jahre."
+**Идея:** Сепия: молодые Хильде и её муж молча сидят на скамейке, вокруг меняются времена года.
+**Эталоны:** Hilde + сепия 147ba02d
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette: a young Hilde (grey-free brown hair bun, round glasses, cardigan) and her husband (flat cap, simple jacket) sit silently side by side on a park bench; the tree behind them is split into four parts showing spring, summer, autumn and winter. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 226 начинается в 9:23.4 со слов «„Der hat nie viel geredet.»*

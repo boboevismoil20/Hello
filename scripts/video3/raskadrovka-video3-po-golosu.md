@@ -1119,4 +1119,143 @@ Evening in Felix's same apartment as in the reference (grey sofa, plants, warm l
 ```
 
 ---
-*Следующий кадр 121 начинается в 4:29.7 со слов «Dann fährst du nach Fulda, und die Komödie hört auf.»*
+
+## Кадры 121–135 (сокращённая версия)
+
+**КАДР 121** · `121_04-29` · 4:29.7–4:33.6
+**Текст:** "Dann fährst du nach Fulda, und die Komödie hört auf."
+**Идея:** Феликс в региональном поезде смотрит в окно; за окном солнечное утро сменяется серой осенью — настроение меняется.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Inside a red regional train, window seat: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) looks out of the window with a thoughtful face; through the window the landscape changes from bright sunny fields on the left to grey cloudy autumn trees on the right. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 122** · `122_04-33` · 4:33.6–4:35.5
+**Текст:** "Sonntag, fünfzehn Uhr."
+**Идея:** Дом родителей снаружи в осеннее воскресенье; в окне видны часы, показывающие 15:00.
+**Эталоны:** кадр 35 (дверь дома)
+**Prompt:**
+```
+Autumn Sunday afternoon at the same front door of the family house in Fulda as in the reference (door, wall lamp, flower pots): wide shot of the cosy family house with autumn leaves; through the front window a round wall clock showing exactly 3 o'clock is visible. Nobody outside yet. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 123** · `123_04-35` · 4:35.5–4:38.2
+**Текст:** "Deine Mutter öffnet die Tür und umarmt dich."
+**Идея:** Мама открывает дверь и крепко обнимает Феликса. ГЛАВНЫЙ КАДР сцены «мама у двери».
+**Эталоны:** Mama Sabine, Felix + кадр 35
+**Prompt:**
+```
+Autumn Sunday afternoon at the same front door of the family house in Fulda as in the reference (door, wall lamp, flower pots): Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) opens the door and hugs Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) tightly with closed eyes and a warm smile; Felix hugs her back. No number labels. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 124** · `124_04-38` · 4:38.2–4:43.1
+**Текст:** "Über ihrem Kopf steht: „Ich hatte solche Angst, dass du nie wieder nach Hause kommst.""
+**Идея:** Над мамой во время объятия серое облачко с фразой целиком. (high — длинный текст)
+**Эталоны:** кадр 123
+**Prompt:**
+```
+Autumn Sunday afternoon at the same front door of the family house in Fulda as in the reference (door, wall lamp, flower pots): the same hug of Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) and Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack); above Mama's head floats a large grey semi-transparent smoke speech bubble (not white, not on clothes) with the text spelled exactly "Ich hatte solche Angst, dass du nie wieder nach Hause kommst." in clear dark grey letters on several lines, every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 125** · `125_04-43` · 4:43.1–4:45.2
+**Текст:** "Du bleibst im Türrahmen stehen."
+**Идея:** Феликс застыл в дверном проёме, глядя вверх на облачко, мама уже ушла в дом.
+**Эталоны:** Felix + кадр 123
+**Prompt:**
+```
+Autumn Sunday afternoon at the same front door of the family house in Fulda as in the reference (door, wall lamp, flower pots): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stands frozen in the open doorway, staring up at a grey smoke speech bubble floating in the hallway above Mama, who is walking ahead into the house, seen from behind. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 126** · `126_04-45` · 4:45.2–4:46.7
+**Текст:** "Die Hamburger Jahre."
+**Идея:** Сепия: Феликс поздно ночью один в офисе большого города, гора работы, за окном огни (без известных зданий).
+**Эталоны:** Felix
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: late night in a big-city office, Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without backpack sits alone at a desk with piles of papers and two monitors, tired; through the window generic city lights and cranes of a harbour, no famous buildings, no Elbphilharmonie. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 127** · `127_04-46` · 4:46.7–4:48.7
+**Текст:** "Die Anrufe, die du weggedrückt hast."
+**Идея:** Сепия, крупно: на экране телефона входящий «Mama», палец Феликса жмёт красную кнопку «сбросить».
+**Эталоны:** нет
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: close-up of a smartphone on the office desk: the screen shows an incoming call with the name spelled exactly "Mama" and a green and a red round button; a cartoon thumb presses the red decline button. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 128** · `128_04-48` · 4:48.7–4:52.2
+**Текст:** "Weihnachten, das du „dieses Jahr leider nicht schaffst"."
+**Идея:** Сепия: Рождество у родителей, ёлка, накрытый стол, один пустой стул с тарелкой — мама смотрит на него.
+**Эталоны:** Mama Sabine, Papa Klaus
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: Christmas evening in the family living room with a decorated Christmas tree: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) and Papa Klaus (bald top with grey side hair, short grey beard, brown corduroy jacket) sit at a festive table; one chair with a clean empty plate stays empty; Mama looks at the empty chair. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 129** · `129_04-52` · 4:52.2–4:56.1
+**Текст:** "Sie hat nie etwas gesagt. Nur „Kein Problem, Schatz"."
+**Идея:** Сепия: мама говорит по телефону с храброй улыбкой, белая реплика «Kein Problem, Schatz.» — а глаза грустные.
+**Эталоны:** Mama Sabine
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) in the family kitchen holds a phone to her ear with a brave smile but sad eyes; next to her a normal solid WHITE comic speech bubble (not grey) spelled exactly "Kein Problem, Schatz.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 130** · `130_04-56` · 4:56.1–4:58.9
+**Текст:** "Du willst sagen: Mama, ich weiß."
+**Идея:** Снова сейчас: в прихожей Феликс открывает рот и поднимает руку, чтобы сказать маме, над ней облачко.
+**Эталоны:** Felix, Mama Sabine + кадр 123
+**Prompt:**
+```
+Flat 2D vector cartoon. Present day, the warm hallway of the family house: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) raises one hand and opens his mouth to say something to Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings), who is hanging up his jacket; a grey semi-transparent smoke speech bubble with blurry unreadable scribbles floats above Mama's head. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 131** · `131_04-58` · 4:58.9–5:00.2
+**Текст:** "Aber du darfst nicht."
+**Идея:** Феликс зажимает себе рот рукой — правило 3.
+**Эталоны:** Felix + кадр 130
+**Prompt:**
+```
+Flat 2D vector cartoon. The same hallway: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) presses his own hand over his mouth with wide eyes, stopping himself from speaking; Mama with her grey bubble is in the soft-focus background. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 132** · `132_05-00` · 5:00.2–5:03.1
+**Текст:** "Also machst du etwas, das du noch nie gemacht hast."
+**Идея:** Гостиная: воскресный кофе и пирог «Bienenstich», Феликс решительно садится за стол. ГЛАВНЫЙ КАДР сцены «кофе и пирог».
+**Эталоны:** Felix + кадр 36 (гостиная)
+**Prompt:**
+```
+Sunday afternoon in the same cosy family living room as in the reference, a coffee table set for Kaffee und Kuchen with a Bienenstich cake (almond crust, cream filling), cups and a coffee pot: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without backpack walks to the coffee table with a determined face, pulling out a chair; Mama is about to cut the cake. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 133** · `133_05-03` · 5:03.1–5:06.1
+**Текст:** "Du setzt dich hin, schiebst das Handy weg und fragst:"
+**Идея:** Крупно: рука Феликса отодвигает телефон на край стола рядом с пирогом.
+**Эталоны:** кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy family living room as in the reference, a coffee table set for Kaffee und Kuchen with a Bienenstich cake (almond crust, cream filling), cups and a coffee pot: close-up of the coffee table: Felix's hand in a light-blue denim sleeve slides his smartphone, screen down, to the far edge of the table, away from the cake and coffee cups. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 134** · `134_05-06` · 5:06.1–5:09.4
+**Текст:** "„Mama, wie geht's dir eigentlich? Also, wirklich?""
+**Идея:** Феликс смотрит маме в глаза, белая реплика с вопросом; мама удивлена.
+**Эталоны:** Felix, Mama Sabine + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy family living room as in the reference, a coffee table set for Kaffee und Kuchen with a Bienenstich cake (almond crust, cream filling), cups and a coffee pot: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) sits at the table, leans forward and looks Mama in the eyes; above him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Mama, wie geht's dir eigentlich? Also, wirklich?"; Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) holding a cake knife looks surprised; above Mama her grey smoke bubble with blurry scribbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 135** · `135_05-09` · 5:09.4–5:12.5
+**Текст:** "Sie hält inne. Das Kuchenmesser steht in der Luft."
+**Идея:** Крупно: мама замерла, нож для пирога застыл в воздухе над «Bienenstich».
+**Эталоны:** Mama Sabine + кадр 132
+**Prompt:**
+```
+Sunday afternoon in the same cosy family living room as in the reference, a coffee table set for Kaffee und Kuchen with a Bienenstich cake (almond crust, cream filling), cups and a coffee pot: close-up: Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) frozen in the middle of the movement, the cake knife stopped in the air just above the Bienenstich, her eyes wide and soft, the grey bubble faintly above her. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 136 начинается в 5:12.5 со слов «Und dann erzählt sie.»*

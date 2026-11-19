@@ -1814,4 +1814,143 @@ Flat 2D vector cartoon. Simple explainer on a soft beige background: on the left
 ```
 
 ---
-*Следующий кадр 196 начинается в 8:03.3 со слов «Über Mama war eine.»*
+
+## Кадры 196–210 (сокращённая версия)
+
+**КАДР 196** · `196_08-03` · 8:03.3–8:04.8
+**Текст:** "Über Mama war eine."
+**Идея:** Мама с облачком (сепия-вспышка), облачко лопнуло огоньками.
+**Эталоны:** кадр 142 (мама)
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft flashback with a gentle white vignette: Mama Sabine (silver-blonde bob, coral-red cardigan) at the coffee table smiling, above her head a few last tiny golden lights where her bubble burst. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 197** · `197_08-04` · 8:04.8–8:06.3
+**Текст:** "Über Papa ist eine."
+**Идея:** Папа в гараже с бледным облачком.
+**Эталоны:** кадр 176 (папа)
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft flashback with a gentle white vignette: Papa Klaus (bald top, grey side hair, short grey beard, brown corduroy jacket) in his garage, above his head a very pale grey smoke speech bubble, no readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 198** · `198_08-06` · 8:06.3–8:07.5
+**Текст:** "Über Ben auch."
+**Идея:** Бен на экране ноутбука, над ним пикселизированное облачко.
+**Эталоны:** кадр 112 (Бен)
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft flashback with a gentle white vignette: the laptop video call with Ben (short black curly hair, light stubble, red plaid flannel shirt), above his head a blurry pixelated grey speech bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 199** · `199_08-07` · 8:07.5–8:09.3
+**Текст:** "Wem schuldest du noch einen Satz?"
+**Идея:** Феликс смотрит прямо в камеру с вопросом, на фоне три маленьких облачка-воспоминания.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) looks straight at the viewer with a serious questioning face; behind him on a soft dark background float three small faded memory circles: Mama, Papa and Ben, each with a small grey bubble. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 200** · `200_08-09` · 8:09.3–8:11.9
+**Текст:** "Die Antwort steht direkt über deinem Kopf."
+**Идея:** Феликс медленно поднимает глаза вверх, над ним его бледное облачко.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) slowly looks up above his own head; there floats his very pale grey smoke speech bubble, no readable text; soft dark background. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 201** · `201_08-11` · 8:11.9–8:16.4
+**Текст:** "Du beschließt, es am nächsten Sonntag zu sagen. An der Brücke. Ganz bestimmt."
+**Идея:** Квартира: Феликс решительно обводит воскресенье в календаре и рисует там маленький мост.
+**Эталоны:** Felix + кадр 37 (календарь)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening in Felix's same apartment: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without backpack firmly circles one Sunday on the big wall calendar with a red marker and draws a tiny bridge doodle inside; determined face. No readable words or numbers on the calendar. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 202** · `202_08-16` · 8:16.4–8:18.0
+**Текст:** "Der nächste Sonntag."
+**Идея:** Серое дождливое воскресенье: мокрая велодорожка, мокрые листья. ГЛАВНЫЙ КАДР «дождь».
+**Эталоны:** кадр 39 (дорожка)
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: wide empty shot of the bike path along the grey river, wet shiny asphalt covered with slippery orange leaves, light drizzle. Nobody in the frame yet. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 203** · `203_08-18` · 8:18.0–8:21.7
+**Текст:** "Dein Vater fährt vorne, weil er „den Weg besser kennt"."
+**Идея:** Папа едет впереди, уверенно показывая рукой дорогу, Феликс сзади.
+**Эталоны:** Papa, Felix + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) with a helmet rides in front on the green bike, pointing ahead confidently with one hand; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) with a helmet rides behind him on the blue bike. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 204** · `204_08-21` · 8:21.7–8:25.7
+**Текст:** "Du übst den Satz im Kopf. Danke, Papa. Danke, Papa."
+**Идея:** Феликс едет и шевелит губами, над ним мысль-облако «Danke, Papa.» несколько раз.
+**Эталоны:** Felix + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: close-up of Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) riding the blue bike with a helmet, lips moving as he rehearses; next to his head a round white thought cloud (not a speech bubble) with the text spelled exactly "Danke, Papa." Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 205** · `205_08-25` · 8:25.7–8:27.4
+**Текст:** "Bei der Brücke sagst du es."
+**Идея:** Вдалеке за поворотом виден старый каменный мост, Феликс смотрит на него.
+**Эталоны:** кадр 165 (мост)
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: view over Felix's shoulder: far ahead behind a bend of the path the small old stone bridge from the reference is visible through the drizzle; Papa on the green bike rides toward the bend. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 206** · `206_08-27` · 8:27.4–8:28.9
+**Текст:** "Ihr erreicht die Brücke nicht."
+**Идея:** Резкий стоп-кадр: колесо папиного велосипеда на мокрой листве в повороте.
+**Эталоны:** Papa + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: dramatic close-up of the front wheel of the old green bike entering a sharp bend on wet slippery orange leaves, motion lines, tense mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 207** · `207_08-28` · 8:28.9–8:32.2
+**Текст:** "In einer Kurve rutscht sein Vorderrad auf dem nassen Laub weg."
+**Идея:** Переднее колесо скользит вбок, листья разлетаются, папа теряет равновесие (без травм крупно).
+**Эталоны:** Papa + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: in the bend the front wheel of the green bike slides sideways on the wet leaves, leaves fly up, Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) loses his balance with wide surprised eyes, the bike tilting. Cartoon style, no injury shown. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 208** · `208_08-32` · 8:32.2–8:34.8
+**Текст:** "Ein Geräusch, das du nie vergessen wirst."
+**Идея:** Феликс резко тормозит и в ужасе смотрит вперёд; крупное звуковое «облачко» удара без текста.
+**Эталоны:** Felix + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) brakes hard on the blue bike, frozen in horror, staring ahead; a big jagged cartoon impact burst shape in front of him without any letters. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 209** · `209_08-34` · 8:34.8–8:38.2
+**Текст:** "Und dann liegt er neben dem Radweg und sagt:"
+**Идея:** Папа сидит на мокрой траве у дорожки, велосипед лежит рядом, шлем на голове.
+**Эталоны:** Papa + кадр 202
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) with his helmet sits on the wet grass next to the bike path, holding his right arm against his body, the green bike lying on the ground beside him, leaves around. No blood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 210** · `210_08-38` · 8:38.2–8:40.2
+**Текст:** "„Geht schon. Geht schon.""
+**Идея:** Папа машет здоровой рукой и пытается улыбнуться, белая реплика «Geht schon. Geht schon.».
+**Эталоны:** Papa + кадр 209
+**Prompt:**
+```
+Grey wet autumn Sunday on the same riverside bike path as in the reference, wet orange leaves on the asphalt, cloudy sky: Papa Klaus (62, bald top with grey side hair, short grey beard, brown corduroy jacket) sitting on the wet grass waves his left hand dismissively with a forced brave smile, his right arm held close to his body; next to him a normal solid WHITE comic speech bubble (not grey) spelled exactly "Geht schon. Geht schon." No blood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 211 начинается в 8:40.2 со слов «Es geht nicht.»*

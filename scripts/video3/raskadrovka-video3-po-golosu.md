@@ -1675,4 +1675,143 @@ Late afternoon at the open door of the same family garage as in the reference: F
 ```
 
 ---
-*Следующий кадр 181 начинается в 7:25.4 со слов «Zwei Menschen. Zwei Sätze.»*
+
+## Кадры 181–195 (сокращённая версия)
+
+**КАДР 181** · `181_07-25` · 7:25.4–7:27.6
+**Текст:** "Zwei Menschen. Zwei Sätze."
+**Идея:** Экран пополам: слева папа в гараже с облачком, справа Феликс — у обоих по бледному облачку (Феликс пока не видит своего).
+**Эталоны:** Papa, Felix + кадры 152, 25
+**Prompt:**
+```
+Flat 2D vector cartoon. Split screen with a thin vertical line in the middle: on the left Papa Klaus (bald top, grey side hair, short grey beard, brown corduroy jacket) in his garage with a very pale grey smoke speech bubble above his head; on the right Felix (curly dark-blond hair, light-blue denim jacket) in his apartment, and above his head an equally pale grey smoke speech bubble that he does not notice. No readable text in the bubbles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 182** · `182_07-27` · 7:27.6–7:30.8
+**Текст:** "Und beide warten darauf, dass der andere ihn schon kennt."
+**Идея:** Тот же сплит: оба смотрят на телефоны с одинаковыми спокойными лицами, между ними тикают часы.
+**Эталоны:** кадр 181
+**Prompt:**
+```
+Flat 2D vector cartoon. The same split screen: Papa in the garage and Felix in his apartment both look calmly at their phones with the same patient faces; in the middle on the dividing line a small clock ticks. Their pale grey bubbles still float above them. No readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 183** · `183_07-30` · 7:30.8–7:31.9
+**Текст:** "Moment."
+**Идея:** Крупно Феликс: замер, поднял палец — его осенило.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of Felix (curly dark-blond hair, light-blue denim jacket) frozen with one finger raised, eyes wide, a small lightning-bolt of realization above his head, plain warm background. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 184** · `184_07-31` · 7:31.9–7:33.0
+**Текст:** "Zwei Sätze?"
+**Идея:** Крупно: огромный вопросительный знак и два маленьких облачка рядом.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. On a soft dark blue background a big glowing question mark, with two small pale grey speech bubbles floating on its left and right. Thick black outlines, flat colors, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 185** · `185_07-33` · 7:33.0–7:36.2
+**Текст:** "Am Abend stehst du in deinem Bad und putzt dir die Zähne."
+**Идея:** Ночь, ванная в Касселе: Феликс в футболке чистит зубы перед зеркалом. ГЛАВНЫЙ КАДР «ванная».
+**Эталоны:** Felix + кадр 57 (Феликс в футболке)
+**Prompt:**
+```
+Night in Felix's small bathroom in his Kassel apartment (white tiles, a sink, a mirror above it, a towel, a small plant): Felix (28, curly dark-blond hair, plain grey t-shirt) stands at the sink brushing his teeth with a toothbrush, tired, foam at his mouth; his reflection in the mirror. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 186** · `186_07-36` · 7:36.2–7:39.5
+**Текст:** "Und im Spiegel, über deinem eigenen Kopf, schwebt eine graue Blase."
+**Идея:** В отражении в зеркале над головой Феликса появляется серое облачко; сам Феликс ещё не понял.
+**Эталоны:** Felix + кадр 185
+**Prompt:**
+```
+Night in Felix's small bathroom in his Kassel apartment (white tiles, a sink, a mirror above it, a towel, a small plant): the mirror reflection of Felix (28, curly dark-blond hair, plain grey t-shirt) brushing his teeth: in the reflection, above his head, a grey semi-transparent smoke speech bubble floats; the real Felix in the foreground (seen from behind) has not noticed yet. No readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 187** · `187_07-39` · 7:39.5–7:42.9
+**Текст:** "„Danke, Papa. Für alles.""
+**Идея:** Крупно отражение: Феликс замер со щёткой во рту, над ним бледное облачко «Danke, Papa. Für alles.» (high)
+**Эталоны:** Felix + кадр 185
+**Prompt:**
+```
+Night in Felix's small bathroom in his Kassel apartment (white tiles, a sink, a mirror above it, a towel, a small plant): close-up of the mirror: the reflection of Felix (28, curly dark-blond hair, plain grey t-shirt) frozen with the toothbrush in his mouth, eyes wide; above his head in the reflection a very pale grey smoke speech bubble with frayed edges, the text spelled exactly "Danke, Papa. Für alles." in faint but correct letters. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 188** · `188_07-42` · 7:42.9–7:45.1
+**Текст:** "Sie ist genauso blass wie seine."
+**Идея:** Сплит: облачко Феликса в зеркале и облачко папы в гараже — одинаково бледные.
+**Эталоны:** Felix, Papa + кадры 187, 155
+**Prompt:**
+```
+Flat 2D vector cartoon. Split screen with a thin vertical line: on the left the bathroom mirror reflection of Felix with his very pale grey bubble; on the right Papa Klaus in his garage with his very pale grey bubble; both bubbles equally pale and frayed. No readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no extra text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 189** · `189_07-45` · 7:45.1–7:47.3
+**Текст:** "Für jedes Fahrrad, das er repariert hat."
+**Идея:** Сепия: папа чинит детский велосипедик маленького Феликса.
+**Эталоны:** Papa, Felix + кадр 13 (сепия)
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: a garage, younger Papa Klaus (40, short dark hair, short beard) repairs the chain of a small child's bicycle while little Felix (6, curly dark-blond hair) hands him a wrench. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 190** · `190_07-47` · 7:47.3–7:49.0
+**Текст:** "Für jeden Umzug."
+**Идея:** Сепия: папа тащит коробки на переезде.
+**Эталоны:** кадр 162 (переезд)
+**Prompt:**
+```
+Sepia-toned memory with soft film grain: the same moving day as in the reference: Papa Klaus (55, grey side hair, short grey beard) carries a heavy moving box toward the van, sweating. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 191** · `191_07-49` · 7:49.0–7:53.8
+**Текст:** "Für jedes „Fahr vorsichtig", das eigentlich „Ich hab dich lieb" bedeutet hat."
+**Идея:** Мама у двери машет «Fahr vorsichtig!», а за этой белой репликой просвечивает сердечко «Ich hab dich lieb».
+**Эталоны:** Mama + кадр 55 (дверь)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening at the same front door of the family house as in the reference: Mama Sabine (silver-blonde bob, coral-red cardigan) waves goodbye; above her a normal solid WHITE speech bubble spelled exactly "Fahr vorsichtig!", and behind it, glowing through, a soft pink heart with the words spelled exactly "Ich hab dich lieb". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 192** · `192_07-53` · 7:53.8–7:56.9
+**Текст:** "Du hast es nie gesagt. Kein einziges Mal."
+**Идея:** Снова ванная: Феликс опустил щётку, смотрит себе в глаза в зеркале.
+**Эталоны:** Felix + кадр 185
+**Prompt:**
+```
+Night in Felix's small bathroom in his Kassel apartment (white tiles, a sink, a mirror above it, a towel, a small plant): Felix (28, curly dark-blond hair, plain grey t-shirt) has lowered his toothbrush and looks himself in the eyes in the mirror, quiet and ashamed; the pale grey bubble still above his reflection. No readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 193** · `193_07-56` · 7:56.9–7:59.9
+**Текст:** "Und plötzlich verstehst du die Menschen ohne Blase."
+**Идея:** Воспоминание-вспышка: сосед без облачка из подъезда машет, вокруг него мягкий свет.
+**Эталоны:** кадр 119 (сосед)
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft dreamy flashback with a gentle glowing border: the same friendly old neighbour as in the reference (bald, white moustache, beige cardigan) waves happily in the staircase, no bubble above him, warm light around him. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 194** · `194_07-59` · 7:59.9–8:01.9
+**Текст:** "Wer alles gesagt hat, hat keine."
+**Идея:** Сосед обнимает свою жену в дверях, у обоих над головой пусто — они всё друг другу сказали.
+**Эталоны:** кадр 119
+**Prompt:**
+```
+Flat 2D vector cartoon. The same staircase: the friendly old neighbour (bald, white moustache, beige cardigan) hugs his smiling wife (grey bun, flowery dress) in their doorway; the air above both heads is completely empty and clear. Warm, happy mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 195** · `195_08-01` · 8:01.9–8:03.3
+**Текст:** "So einfach ist das."
+**Идея:** Простая схема: сказанная фраза = пустой чистый воздух и сердечко.
+**Эталоны:** нет
+**Prompt:**
+```
+Flat 2D vector cartoon. Simple explainer on a soft beige background: on the left a white speech bubble with a small heart inside, an equals sign, and on the right a happy plain stickman with clear empty air above his head and a small sparkle. Thick black outlines, flat colors, stickman characters with round pure white heads and dot eyes, YouTube what-if animation style. No logos, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 196 начинается в 8:03.3 со слов «Über Mama war eine.»*

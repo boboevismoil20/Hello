@@ -841,4 +841,143 @@ Flat 2D vector cartoon. Evening at a supermarket checkout (conveyor belt, shelve
 ```
 
 ---
-*Следующий кадр 91 начинается в 3:22.7 со слов «Ihre Blase: „Ich hab mal versucht …“»*
+
+## Кадры 91–105 (сокращённая версия)
+
+**КАДР 91** · `091_03-22` · 3:22.7–3:27.3
+**Текст:** "Ihre Blase: „Ich hab mal versucht, dein Leben anhand deiner Einkäufe zu erraten."
+**Идея:** Кассирша, над ней серое облачко с фразой. (high — длинный текст)
+**Эталоны:** Felix + кадр 90 (касса, кассирша)
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): close-up of the cashier (55, grey hair in a ponytail, red work vest over a white shirt) with a neutral polite face; above her head floats a large grey semi-transparent smoke speech bubble floating in the air above her head (not on clothes or objects) with the text spelled exactly "Ich hab mal versucht, dein Leben anhand deiner Einkäufe zu erraten. Es ist traurig." in clear dark grey letters, every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 92** · `092_03-27` · 3:27.3–3:28.8
+**Текст:** "Es ist traurig.""
+**Идея:** Кассирша с жалостью смотрит на покупки Феликса, грустно приподняв брови.
+**Эталоны:** кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): the cashier (55, grey hair in a ponytail, red work vest over a white shirt) looks down at the items on the conveyor belt with a pitying, sad face, eyebrows raised in sympathy, one hand on her cheek. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 93** · `093_03-28` · 3:28.8–3:30.7
+**Текст:** "Du schaust auf dein Kassenband."
+**Идея:** Феликс опускает взгляд на ленту кассы.
+**Эталоны:** Felix + кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) looks down at the conveyor belt in front of him with a slowly sinking expression. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 94** · `094_03-30` · 3:30.7–3:31.8
+**Текст:** "Tiefkühlpizza."
+**Идея:** Крупно на ленте: коробка замороженной пиццы без бренда.
+**Эталоны:** кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): close-up of the black conveyor belt: a single plain frozen pizza box with a simple pizza drawing and no brand, no text. Dramatic little spotlight. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 95** · `095_03-31` · 3:31.8–3:32.9
+**Текст:** "Energydrink."
+**Идея:** Крупно на ленте рядом с пиццей: банка энергетика без бренда.
+**Эталоны:** кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): close-up of the conveyor belt: next to the plain frozen pizza box a single plain energy drink can with a lightning bolt symbol and no brand, no text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 96** · `096_03-32` · 3:32.9–3:34.7
+**Текст:** "Eine einzelne Banane."
+**Идея:** Крупно: один-единственный банан лежит на ленте в луче света — смешно и грустно.
+**Эталоны:** кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): close-up of the conveyor belt: one single lonely banana lies on the moving belt under a dramatic spotlight, with a tiny sad face drawn by its curve; the pizza box and the can are behind it. Funny and sad. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 97** · `097_03-34` · 3:34.7–3:35.8
+**Текст:** "Sie hat recht."
+**Идея:** Феликс с каменным лицом смиренно кивает — признаёт.
+**Эталоны:** Felix + кадр 90
+**Prompt:**
+```
+Evening at the same supermarket checkout as in the reference (conveyor belt, shelves without brands): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) with a deadpan, defeated face slowly nods, accepting the truth; the cashier gives a small sympathetic smile. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 98** · `098_03-35` · 3:35.8–3:39.9
+**Текст:** "Dein Kollege Tobi kritisiert im Meeting jede deiner Ideen zuerst."
+**Идея:** Переговорка в офисе: Феликс у доски с идеей, Тоби первым тянет большой палец вниз. ГЛАВНЫЙ КАДР и эталон Тоби.
+**Эталоны:** Felix + кадр 77 (офис)
+**Prompt:**
+```
+Daytime in the same bright office as in the reference, a meeting corner with a whiteboard (view through windows only trees and low rooftops, no towers): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) without backpack stands at the whiteboard presenting a simple drawn idea (a lightbulb doodle); at the table his colleague Tobi (30, ginger hair in a small man bun, round glasses, mustard-yellow sweater) is the first to raise his hand with a thumbs-down and a critical frown; two other colleagues sit at the table. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 99** · `099_03-39` · 3:39.9–3:43.4
+**Текст:** "Seine Blase: „Ich finde deine Ideen besser als meine. Das macht mich wahnsinnig.""
+**Идея:** Тоби с пальцем вниз, а над ним серое облачко с правдой. (high — длинный текст)
+**Эталоны:** кадр 98 (Тоби)
+**Prompt:**
+```
+Daytime in the same bright office as in the reference, the same meeting corner (view through windows only trees and low rooftops, no towers): his colleague Tobi (30, ginger hair in a small man bun, round glasses, mustard-yellow sweater) still shows his thumbs-down; above his head floats a large grey semi-transparent smoke speech bubble (not on clothes) with the text spelled exactly "Ich finde deine Ideen besser als meine. Das macht mich wahnsinnig." in clear dark grey letters, every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 100** · `100_03-43` · 3:43.4–3:45.3
+**Текст:** "Das macht mich wahnsinnig.""
+**Идея:** Крупно Тоби: стиснул зубы и вцепился в пучок волос — его бесит, что идея хорошая.
+**Эталоны:** кадр 98 (Тоби)
+**Prompt:**
+```
+Daytime in the same bright office as in the reference, the same meeting corner (view through windows only trees and low rooftops, no towers): close-up of his colleague Tobi (30, ginger hair in a small man bun, round glasses, mustard-yellow sweater) gritting his teeth and clutching his man bun with both hands in frustration, a small steam cloud above his head. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 101** · `101_03-45` · 3:45.3–3:47.6
+**Текст:** "Du hast plötzlich Lust, ihn zu umarmen."
+**Идея:** Феликс растроганно раскрывает руки в сторону Тоби, вокруг маленькие сердечки.
+**Эталоны:** Felix + кадр 98
+**Prompt:**
+```
+Daytime in the same bright office as in the reference, the same meeting corner (view through windows only trees and low rooftops, no towers): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) at the whiteboard looks at Tobi with a touched, emotional smile and starts to open his arms wide for a hug, small pink hearts float around Felix; Tobi does not notice. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 102** · `102_03-47` · 3:47.6–3:48.8
+**Текст:** "Du lässt es."
+**Идея:** Феликс неловко превращает объятие в потягивание.
+**Эталоны:** Felix + кадр 98
+**Prompt:**
+```
+Daytime in the same bright office as in the reference, the same meeting corner (view through windows only trees and low rooftops, no towers): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) awkwardly turns the hug into a fake stretch with both arms above his head, pretending nothing happened; Tobi looks at him confused. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 103** · `103_03-48` · 3:48.8–3:51.4
+**Текст:** "Und dann triffst du deine alte Deutschlehrerin."
+**Идея:** Молочный отдел супермаркета: Феликс с корзинкой натыкается на пожилую учительницу. ГЛАВНЫЙ КАДР и эталон фрау Брандт.
+**Эталоны:** Felix + кадр 90 (супермаркет)
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening in the dairy aisle of the same supermarket as in the reference (fridges with yogurt cups without brands): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) with a shopping basket bumps into his old German teacher Frau Brandt (72, short white bob, glasses on a beaded chain, purple cardigan, holding a shopping basket), who recognizes him with a big surprised smile. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 104** · `104_03-51` · 3:51.4–3:52.5
+**Текст:** "Frau Brandt."
+**Идея:** Крупно фрау Брандт: очки на цепочке, тёплая улыбка учительницы.
+**Эталоны:** кадр 103 (Брандт)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same dairy aisle: close-up of his old German teacher Frau Brandt (72, short white bob, glasses on a beaded chain, purple cardigan, holding a shopping basket) smiling warmly like a proud teacher, adjusting her glasses. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 105** · `105_03-52` · 3:52.5–3:55.7
+**Текст:** "Über ihr eine blasse, uralte Blase:"
+**Идея:** Над фрау Брандт старое, очень бледное облачко с потрескавшимися краями; Феликс смотрит на него.
+**Эталоны:** Felix + кадр 103
+**Prompt:**
+```
+Flat 2D vector cartoon. The same dairy aisle: above his old German teacher Frau Brandt (72, short white bob, glasses on a beaded chain, purple cardigan, holding a shopping basket) floats a very old, very pale, almost transparent grey smoke speech bubble with cracked frayed edges like an old paper, its letters too faint to read; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) stares up at it with raised eyebrows. Thick black outlines, flat bright colors, stickman characters with round pure white heads and dot eyes, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no readable text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 106 начинается в 3:55.7 со слов «„Dein Aufsatz in der achten Klasse …“»*

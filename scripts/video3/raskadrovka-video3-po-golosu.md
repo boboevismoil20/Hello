@@ -2633,4 +2633,158 @@ Flat 2D vector cartoon. Plain dark-blue background: Felix (28, curly dark-blond 
 ```
 
 ---
-*Следующий кадр 286 начинается в 11:48.8 со слов «Es gibt keine grauen Blasen.»*
+**КАДР 286** · `286_11-48` · 11:48.8–11:50.9
+**Текст:** "Es gibt keine grauen Blasen."
+**Идея:** Улица: обычные прохожие, над ними ничего нет, одно серое облачко тает и исчезает.
+**Эталоны:** улица 933e0f98
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime, the same German city street as in the reference: ordinary stickman passers-by with nothing above their heads; one last pale grey smoke speech bubble dissolves into thin air and vanishes. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 287** · `287_11-50` · 11:50.9–11:52.6
+**Текст:** "Aber die Sätze gibt es."
+**Идея:** Те же прохожие, у каждого в груди тихо светится маленький тёплый огонёк.
+**Эталоны:** кадр 286
+**Prompt:**
+```
+Flat 2D vector cartoon. The same street with the same stickman passers-by: in the chest of each person a small warm golden glow shines softly, like a hidden unsaid sentence. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 288** · `288_11-52` · 11:52.6–11:56.4
+**Текст:** "Fast jeder Mensch, den du liebst, trägt mindestens einen mit sich herum."
+**Идея:** Четыре портрета-кружка: мама, папа, Бен, Ома Герда — у каждого в руках маленькая сложенная записка.
+**Эталоны:** Mama + Papa + Ben + Gerda
+**Prompt:**
+```
+Flat 2D vector cartoon. Dark-blue background with four round portrait circles in a row: Mama Sabine (short silver-blonde bob, coral-red cardigan), Papa Klaus (bald top with grey side hair, short grey stubble beard with moustache, brown corduroy jacket), Ben (short tight black curly hair, light stubble, red plaid shirt) and Oma Gerda (old woman, white hair bun, glasses); each holds a small folded white paper note close to the chest and smiles softly. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no writing on the notes, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 289** · `289_11-56` · 11:56.4–11:58.4
+**Текст:** "Und du trägst auch einen."
+**Идея:** Феликс прижимает к груди свою сложенную записку и смотрит в камеру.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Dark-blue background: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) looks straight at the viewer and holds a small folded white paper note to his chest with both hands, gentle serious smile. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no writing on the note, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 290** · `290_11-58` · 11:58.4–12:03.9
+**Текст:** "Die australische Palliativpflegerin Bronnie Ware hat jahrelang sterbende Menschen begleitet."
+**Идея:** Тихая палата днём: медсестра (со спины, без лица) сидит у кровати пожилого человека и держит его за руку.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon. Soft calm daylight in a quiet care room with a window and plants: a nurse in a light-blue uniform, seen from behind (no face visible), sits at the bedside of a very old man and gently holds his hand; the old man smiles peacefully. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 291** · `291_12-03` · 12:03.9–12:06.6
+**Текст:** "Einer der häufigsten Sätze, den sie gehört hat:"
+**Идея:** Та же медсестра со спины пишет в блокноте, страницы с линиями без читаемого текста.
+**Эталоны:** кадр 290
+**Prompt:**
+```
+Flat 2D vector cartoon. The same quiet care room: the nurse, seen from behind over her shoulder (no face), writes in a notebook on her lap; the pages show only wavy lines, no readable letters; the old man rests in the bed. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 292** · `292_12-06` · 12:06.6–12:10.3
+**Текст:** "„Ich wünschte, ich hätte den Mut gehabt, meine Gefühle auszudrücken.""
+**Идея:** Цитата-карточка: тёмно-синий фон, белый текст в кавычках.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon title card. Plain dark-blue background with a soft vignette, a small white quotation mark icon at the top, and in the center large clean white handwritten-style letters spelled exactly "Ich wünschte, ich hätte den Mut gehabt, meine Gefühle auszudrücken.", every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 293** · `293_12-10` · 12:10.3–12:13.0
+**Текст:** "Du musst nicht warten, bis jemand vom Fahrrad fällt."
+**Идея:** Сепия: лежащий оливковый велосипед на мокрых листьях перечёркнут большим красным крестом.
+**Эталоны:** велосипед 197 + кадр 209
+**Prompt:**
+```
+Flat 2D vector cartoon in faded sepia tones like an old memory: the old olive-green city bike with cream tyres and a front lamp lies on wet autumn leaves next to a bike path; a big bold red X is drawn over the whole picture. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 294** · `294_12-13` · 12:13.0–12:17.6
+**Текст:** "Schreib heute jemandem eine Nachricht, die mit „Danke, dass du …" anfängt."
+**Идея:** Из-за плеча: руки держат телефон, на экране поле сообщения «Danke, dass du …».
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Over-the-shoulder view from behind (curly dark-blond hair, smooth shape, no face): two white cartoon hands hold a smartphone with the screen facing the viewer; on the screen a simple messaging layout without any app logo, a text input field showing typed letters spelled exactly "Danke, dass du …" and a blinking cursor. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no app names, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 295** · `295_12-17` · 12:17.6–12:19.5
+**Текст:** "Mehr nicht. Ein Satz."
+**Идея:** Крупно палец нажимает кнопку «отправить» (бумажный самолётик), сообщение улетает.
+**Эталоны:** кадр 294
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of a smartphone screen without any app logo: a white cartoon finger taps a round blue send button with a paper-plane icon; a single message bubble flies up with small motion lines; no readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 296** · `296_12-19` · 12:19.5–12:22.7
+**Текст:** "Und jetzt die Frage, die ich dir am Anfang versprochen habe."
+**Идея:** Отсылка к кадрам 22–23: ночная дорога, Феликс дошёл до светящегося золотого вопросительного знака.
+**Эталоны:** кадр 23 (5682916a)
+**Prompt:**
+```
+Flat 2D vector cartoon. The same night road under a starry sky as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) has reached the end of the road and stands right in front of the big glowing golden question mark, looking up at it, then at the viewer. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 297** · `297_12-22` · 12:22.7–12:26.7
+**Текст:** "Würdest du die Sätze über deinen Eltern sehen wollen — oder lieber nicht?"
+**Идея:** Экран пополам: слева мама и папа с бледными серыми облачками, справа те же без облачков, посередине знак вопроса.
+**Эталоны:** Mama + Papa
+**Prompt:**
+```
+Flat 2D vector cartoon. Split screen with a thin white line and a big white question mark in the middle, dark-blue background: on the left Mama Sabine (short silver-blonde bob, coral-red cardigan) and Papa Klaus (bald top with grey side hair, short grey stubble beard with moustache, brown corduroy jacket) with pale grey smoke speech bubbles above their heads; on the right the same two people with nothing above their heads. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no letters in the bubbles, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 298** · `298_12-26` · 12:26.7–12:29.4
+**Текст:** "Und welchen Satz hast du jemandem nie gesagt?"
+**Идея:** Зритель со спины (безликий человечек), над ним пустое серое облачко.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon. Dark-blue background: a simple stickman person seen from behind (round white head, plain grey hoodie, no face visible) in the foreground, representing the viewer; above their head floats an empty pale grey smoke speech bubble waiting to be filled. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 299** · `299_12-29` · 12:29.4–12:33.6
+**Текст:** "Schreib es in die Kommentare. Vielleicht ist es dort leichter als am Telefon."
+**Идея:** Стилизованные карточки комментариев с аватарками-человечками, строки без текста, сердечки.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon. Dark-blue background: a stylized comment section without any platform logo — several white rounded comment cards stacked, each with a small round stickman avatar on the left, grey placeholder lines instead of text and a small red heart icon; a big cursor hand hovering over an empty new comment card. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no logos, no letters. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 300** · `300_12-33` · 12:33.6–12:36.6
+**Текст:** "Und wenn du jetzt an jemanden denkst: Ruf ihn an."
+**Идея:** Рука с телефоном: экран вызова, белая трубка на синем фоне, имя «Papa».
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon. Close-up of a white cartoon hand holding a smartphone with the screen facing the viewer: a simple outgoing call screen without any app logo, blue background, a round white phone handset icon in the middle, and above it the contact name spelled exactly "Papa". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 301** · `301_12-36` · 12:36.6–12:38.3
+**Текст:** "Einer muss immer zuerst."
+**Идея:** Финальная карточка: тёмно-синий фон, крупный белый текст «Einer muss immer zuerst.», маленькое светящееся облачко.
+**Эталоны:** —
+**Prompt:**
+```
+Flat 2D vector cartoon title card. Plain dark-blue night background with a few stars: in the center large clean bold white letters spelled exactly "Einer muss immer zuerst.", every letter correct; above the text a small speech bubble glowing warm white with tiny golden sparkles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 302** · `302_12-38` · 12:38.3–12:39.2
+**Текст:** "Warum nicht du?"
+**Идея:** Феликс смотрит прямо в камеру и мягко указывает на зрителя; держать кадр ещё ~1,5 с до конечной заставки.
+**Эталоны:** Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Plain dark-blue background with soft warm light: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) looks straight at the viewer with a warm encouraging smile and gently points at the viewer with one finger. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Конец озвучки 12:39.2. После кадра 302 — пауза 1,5 с и конечная заставка.*

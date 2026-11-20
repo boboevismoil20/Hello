@@ -2497,4 +2497,140 @@ Flat 2D vector cartoon. Christmas evening, snowy: Felix (28, curly dark-blond ha
 ```
 
 ---
-*Следующий кадр 271 начинается в 11:07.8 со слов «Er hat es versprochen,»*
+**КАДР 271** · `271_11-07` · 11:07.8–11:10.5
+**Текст:** "Er hat es versprochen, letztes Jahr in Vancouver."
+**Идея:** Сепия-воспоминание: год назад видеозвонок, Бен на экране ноутбука поднимает руку — обещает.
+**Эталоны:** Ben + ноутбук c20241e8
+**Prompt:**
+```
+Flat 2D vector cartoon in warm faded sepia tones like an old memory, soft white vignette: a laptop on a desk shows a video call with Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) far away, he raises his right hand like giving a solemn promise, smiling; small Christmas tree doodle next to the laptop. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 272** · `272_11-10` · 11:10.5–11:12.1
+**Текст:** "Und er hat es gehalten."
+**Идея:** Квартира, Рождество: Феликс и Бен крепко обнимаются, снег на куртке Бена.
+**Эталоны:** Felix + Ben + кадр 270
+**Prompt:**
+```
+Christmas evening in Felix's apartment (the same apartment as in the reference) with warm fairy lights and a small Christmas tree: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) and Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) hug tightly with big smiles and closed happy eyes, snowflakes on Ben's winter jacket, his suitcase next to them. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 273** · `273_11-12` · 11:12.1–11:15.4
+**Текст:** "Über ihm die Blase, die du am Bildschirm nicht lesen konntest."
+**Идея:** Над Беном серое дымное облачко, буквы в нём ещё пикселизированы, как на экране.
+**Эталоны:** Ben + кадр 270 + дымное облачко
+**Prompt:**
+```
+Christmas evening in Felix's apartment (the same apartment as in the reference) with warm fairy lights and a small Christmas tree: Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) takes off his snowy jacket; above his head floats a grey semi-transparent smoke speech bubble whose content is still pixelated into blurry grey squares, like a low-quality video call, not readable. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 274** · `274_11-15` · 11:15.4–11:19.6
+**Текст:** "Jetzt kannst du es: „Ohne dich hätte ich mich nie getraut zu gehen.""
+**Идея:** Крупно облачко Бена стало чётким: «Ohne dich hätte ich mich nie getraut zu gehen.».
+**Эталоны:** Ben + дымное облачко
+**Prompt:**
+```
+Christmas evening in Felix's apartment (the same apartment as in the reference) with warm fairy lights and a small Christmas tree: close-up of Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) smiling a little shyly; above his head a grey semi-transparent smoke speech bubble (not white) with clear dark grey letters spelled exactly "Ohne dich hätte ich mich nie getraut zu gehen.", every letter correct. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 275** · `275_11-19` · 11:19.6–11:22.6
+**Текст:** "Du gibst ihm ein Bier und setzt dich mit ihm auf die Treppe."
+**Идея:** Феликс и Бен сидят на ступеньках в подъезде с бутылками пива без этикеток, над Беном серое облачко.
+**Эталоны:** Felix + Ben + подъезд 7a8fc9e3
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening, the same apartment stairwell as in the reference, a small Christmas wreath on a door: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) and Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) sit next to each other on the stairs, each holding a brown beer bottle without any label; above Ben a small grey smoke speech bubble without readable text. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no labels, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 276** · `276_11-22` · 11:22.6–11:25.3
+**Текст:** "Nach einer Stunde sagt er es. Einfach so."
+**Идея:** Бен говорит Феликсу, его облачко лопается золотыми огоньками, Феликс улыбается.
+**Эталоны:** Felix + Ben + кадр 275 + огоньки 7281ee15
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening, the same stairwell as in the reference: Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) turns to Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) and says something simply and openly; Ben's grey bubble above him bursts into many tiny warm golden lights; Felix smiles warmly; beer bottles without labels next to them. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 277** · `277_11-25` · 11:25.3–11:28.0
+**Текст:** "In den Wochen danach werden die Blasen weniger."
+**Идея:** Улица города: над прохожими осталось лишь два-три маленьких серых облачка.
+**Эталоны:** улица с облачками 933e0f98
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime, the same German city street as in the reference with many stickman passers-by: now only two or three of them still have small pale grey smoke speech bubbles above their heads, most people have none; sunny, relaxed mood. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 278** · `278_11-28` · 11:28.0–11:31.0
+**Текст:** "Tobi sagt dir im Meeting, dass deine Idee besser ist."
+**Идея:** Офис, переговорка: Тоби показывает Феликсу большой палец вверх, без облачка.
+**Эталоны:** Tobi/офис e94fdd51 + Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime in the same bright office meeting corner as in the reference (view through windows only trees and low rooftops, no towers): Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) stands at the whiteboard with a lightbulb doodle; his colleague Tobi (30, ginger hair in a small man bun, round glasses, mustard-yellow sweater) gives him a big thumbs-up with an honest smile, no bubble above him; two colleagues nod. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 279** · `279_11-31` · 11:31.0–11:33.1
+**Текст:** "Die Kassiererin empfiehlt dir Gemüse."
+**Идея:** Касса: кассирша с улыбкой протягивает Феликсу брокколи, на ленте пицца, энергетик и банан.
+**Эталоны:** кассирша/супермаркет c0ce3a0f + Felix
+**Prompt:**
+```
+Flat 2D vector cartoon. Evening at the same supermarket checkout as in the reference: the same cashier (55, grey hair in a ponytail, red work vest over a white shirt) smiles warmly and holds out a fresh broccoli to Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt); on the conveyor belt only a pizza box, an energy drink can without logo and a banana; Felix laughs. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no brands, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 280** · `280_11-33` · 11:33.1–11:36.6
+**Текст:** "Und eines Morgens wachst du auf, und die Luft ist leer."
+**Идея:** Утро, квартира: Феликс просыпается в кровати, солнце, воздух над ним пустой.
+**Эталоны:** Felix + квартира e1ae5ef7
+**Prompt:**
+```
+Flat 2D vector cartoon. Early morning in Felix's apartment bedroom (same apartment style as in the reference), soft sunlight through the window: Felix (28, curly dark-blond hair in a grey t-shirt) sits up in bed and stretches, looking around; the air in the room is completely empty and bright. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 281** · `281_11-36` · 11:36.6–11:37.9
+**Текст:** "Keine Blasen mehr."
+**Идея:** Феликс у окна смотрит на улицу: над людьми больше нет облачков.
+**Эталоны:** Felix + улица 933e0f98
+**Prompt:**
+```
+Flat 2D vector cartoon. Morning: view over Felix's shoulder (curly dark-blond hair from behind, smooth curly shape, no face) out of his apartment window onto the same German street as in the reference; many stickman passers-by below, and above none of them is any bubble anymore; clear blue sky. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 282** · `282_11-37` · 11:37.9–11:40.1
+**Текст:** "Aber du weißt jetzt, dass sie da sind."
+**Идея:** Феликс на улице среди людей, понимающе улыбается.
+**Эталоны:** Felix + улица 933e0f98
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime, the same German city street as in the reference: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) with his black backpack walks among the passers-by with a calm, knowing smile, looking at the people around him. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 283** · `283_11-40` · 11:40.1–11:41.8
+**Текст:** "Auch wenn du sie nicht siehst."
+**Идея:** Над прохожими едва видны прозрачные пунктирные контуры облачков.
+**Эталоны:** кадр 282
+**Prompt:**
+```
+Flat 2D vector cartoon. Daytime, the same city street: stickman passers-by walk by; above each of their heads floats only a barely visible, very faint dotted outline of a speech bubble, almost invisible, like a ghost; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) in the middle smiles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 284** · `284_11-41` · 11:41.8–11:44.4
+**Текст:** "Und jetzt mal ehrlich: Ist das möglich?"
+**Идея:** Тёмно-синий фон: Феликс смотрит в камеру, рядом большой вопросительный знак.
+**Эталоны:** Felix + кадр 184
+**Prompt:**
+```
+Flat 2D vector cartoon. Plain dark-blue background: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) looks straight at the viewer with raised eyebrows, next to him a big white question mark shape. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no letters. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 285** · `285_11-44` · 11:44.4–11:48.8
+**Текст:** "Nein. Niemand kann sehen, welche Sätze in einem anderen Menschen warten."
+**Идея:** Тот же фон: Феликс качает головой, серое облачко перечёркнуто красным крестом.
+**Эталоны:** Felix + кадр 284
+**Prompt:**
+```
+Flat 2D vector cartoon. Plain dark-blue background: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt) shakes his head with a small honest smile, motion lines next to his head; next to him a pale grey smoke speech bubble crossed out with a big red X. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 286 начинается в 11:48.8 со слов «Es gibt keine grauen Blasen.»*

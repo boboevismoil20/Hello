@@ -2361,4 +2361,140 @@ Night, the same hospital room as in the reference: dark-blue walls, a window wit
 ```
 
 ---
-*Следующий кадр 256 начинается в 10:29.8 со слов «Deine Blase zerplatzt.»*
+**КАДР 256** · `256_10-29` · 10:29.8–10:31.5
+**Текст:** "Deine Blase zerplatzt."
+**Идея:** Облачко над Феликсом лопается и рассыпается тысячей золотых огоньков.
+**Эталоны:** кадр 255 + огоньки 7281ee15
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: the glowing white speech bubble above Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) bursts with a soft flash into hundreds of tiny warm golden sparkling lights. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 257** · `257_10-31` · 10:31.5–10:33.3
+**Текст:** "Aber du schaust nicht nach oben."
+**Идея:** Золотые огоньки падают вокруг Феликса, а он не смотрит вверх, смотрит вперёд.
+**Эталоны:** кадр 256
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: tiny warm golden lights slowly float down around Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack), but he does not look up at them; he looks straight ahead at his father. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 258** · `258_10-33` · 10:33.3–10:35.0
+**Текст:** "Du schaust deinen Vater an."
+**Идея:** Из-за плеча Феликса: папа в кровати с пирогом.
+**Эталоны:** кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: over-the-shoulder view from behind Felix's curly hair (smooth curly shape, no face visible): in front of him Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) sits in the bed holding the plum cake in a napkin and looks back at Felix; a few golden lights still float in the air. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 259** · `259_10-35` · 10:35.0–10:36.7
+**Текст:** "Er sagt lange nichts."
+**Идея:** Крупно папа молчит, губы сжаты, глаза чуть блестят.
+**Эталоны:** Papa + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: close-up of Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) silent, lips pressed together, small black dot eyes with a tiny shine, holding the plum cake. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 260** · `260_10-36` · 10:36.7–10:40.4
+**Текст:** "Er schaut auf den Pflaumenkuchen, als wäre der sehr interessant."
+**Идея:** Смешно: папа пристально изучает пирог, как будто это что-то невероятное, пирог в лучике света.
+**Эталоны:** Papa + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: comedic moment: Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) stares very intensely at the slice of plum cake in his hand as if it were the most fascinating thing in the world, eyebrows raised; a small spotlight beam shines on the cake, tiny sparkle lines around it. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 261** · `261_10-40` · 10:40.4–10:41.9
+**Текст:** "Dann räuspert er sich."
+**Идея:** Папа подносит кулак здоровой руки ко рту и откашливается.
+**Эталоны:** Papa + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) puts his free left fist in front of his mouth and clears his throat, eyes closed for a moment, small cough lines next to his fist. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 262** · `262_10-41` · 10:41.9–10:44.6
+**Текст:** "„Junge … ich bin stolz auf dich."
+**Идея:** Папа смотрит на Феликса и говорит: белая реплика «Junge … ich bin stolz auf dich.».
+**Эталоны:** Papa + Felix + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) looks directly at Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) and speaks quietly with an emotional face; next to Papa a normal solid WHITE comic speech bubble spelled exactly "Junge … ich bin stolz auf dich.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 263** · `263_10-44` · 10:44.6–10:47.6
+**Текст:** "Das hätte ich dir schon vor zwanzig Jahren sagen sollen.""
+**Идея:** Папа продолжает: белая реплика «Das hätte ich dir schon vor zwanzig Jahren sagen sollen.», Феликс замер.
+**Эталоны:** Papa + Felix + кадр 262
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) continues speaking, a little ashamed and tender; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) on the chair freezes, deeply moved; next to Papa a normal solid WHITE comic speech bubble spelled exactly "Das hätte ich dir schon vor zwanzig Jahren sagen sollen.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 264** · `264_10-47` · 10:47.6–10:49.5
+**Текст:** "Seine Blase leuchtet auf."
+**Идея:** Над папой его бледное облачко вспыхивает ярким белым светом.
+**Эталоны:** Papa + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: above the head of Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) his pale grey smoke speech bubble suddenly lights up with bright white glowing light; Felix looks up at it. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 265** · `265_10-49` · 10:49.5–10:51.4
+**Текст:** "Heller als jede andere."
+**Идея:** Облачко папы сияет сильнее всех, свет заливает палату.
+**Эталоны:** кадр 264
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: the glowing speech bubble above Papa shines brighter than anything before, rays of white light fill the whole room, Felix and Papa are lit in white light, both amazed. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 266** · `266_10-51` · 10:51.4–10:54.7
+**Текст:** "Und dann ist das ganze Zimmer voller kleiner Lichter."
+**Идея:** Облачко лопается, вся палата полна золотых огоньков, Феликс и папа смотрят вокруг.
+**Эталоны:** кадр 265 + огоньки 7281ee15
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: the bubble has burst and the whole room is full of hundreds of tiny warm golden floating lights like fireflies; Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) and Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) look around in wonder with soft smiles. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 267** · `267_10-54` · 10:54.7–10:58.4
+**Текст:** "Deine Mutter steht in der Tür und tut so, als hätte sie nichts gehört."
+**Идея:** В дверях мама с сумкой, смотрит в сторону, делает вид, что ничего не слышала, в комнате огоньки.
+**Эталоны:** Mama + кадр 266
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: in the open doorway stands Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) holding a small bag, looking away at the ceiling and pretending she heard nothing, a tiny innocent smile, a little tear in the corner of one eye; golden lights still float in the room. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 268** · `268_10-58` · 10:58.4–11:01.7
+**Текст:** "Dann sagt dein Vater: „Der Kuchen ist übrigens gut.""
+**Идея:** Папа с пирогом во рту: белая реплика «Der Kuchen ist übrigens gut.».
+**Эталоны:** Papa + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) chews a bite of the plum cake with full cheeks and nods; next to him a normal solid WHITE comic speech bubble spelled exactly "Der Kuchen ist übrigens gut.". Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no other text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 269** · `269_11-01` · 11:01.7–11:05.6
+**Текст:** "Und ihr lacht alle drei, um zwei Uhr vierzig im Klinikum Fulda."
+**Идея:** Все трое смеются: папа в кровати, Феликс, мама; часы на стене 2:40.
+**Эталоны:** Felix + Papa + Mama + кадр 251
+**Prompt:**
+```
+Night, the same hospital room as in the reference: dark-blue walls, a window with the night city and a full moon, a wall clock, a drip stand, a heart monitor, a bedside table; Felix sits on a chair next to the bed: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack), Papa Klaus (62, bald top with grey side hair, short grey stubble beard with moustache, small plaster on the left side of his head as seen by the viewer, pale light-blue hospital gown with small blue squares, right arm in a blue sling with a white strap) in the bed and Mama Sabine (59, short silver-blonde bob, coral-red cardigan, pearl earrings) next to the bed all laugh together with big happy smiles and closed happy eyes; the round wall clock shows twenty to three (2:40); a few golden lights in the air. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+**КАДР 270** · `270_11-05` · 11:05.6–11:07.8
+**Текст:** "An Weihnachten steht Ben vor der Tür."
+**Идея:** Рождество, снег: Феликс открывает дверь, на пороге Бен с чемоданом.
+**Эталоны:** Ben + Felix + квартира Феликса
+**Prompt:**
+```
+Flat 2D vector cartoon. Christmas evening, snowy: Felix (28, curly dark-blond hair, light-blue denim jacket over white t-shirt, black backpack) opens his apartment door with a surprised happy face; in the doorway stands Ben (28, tall, short tight black curly hair, light black stubble, red plaid flannel shirt) with a suitcase, snow on his shoulders, grinning; a small Christmas wreath on the door, warm fairy lights inside. Thick black outlines, flat bright colors, stickman characters with round pure white heads and small black dot eyes, no noses, exactly two arms, YouTube what-if animation style, present-day Germany. No famous landmarks, no towers, no flags, no logos, no brand names, no blood, no gore, no text. ONE single full-frame scene, 16:9.
+```
+
+---
+*Следующий кадр 271 начинается в 11:07.8 со слов «Er hat es versprochen,»*

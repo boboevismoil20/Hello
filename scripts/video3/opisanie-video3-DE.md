@@ -34,9 +34,9 @@ Was steht über dem Kopf deines Vaters? Und was über deinem?
 
 Einer muss immer zuerst. Warum nicht du?
 
-🔔 Abonniere Axt für mehr „Was wäre, wenn …?"-Geschichten.
+🔔 Wenn du die nächste "Was wäre, wenn…?"-Frage nicht verpassen willst, abonniere Axt.
 
-#WasWäreWenn #Eltern #Vater #Animation #Geschichte
+#WasWäreWenn #Vater #Familie #Animation #Kurzfilm #Geschichte #Nachdenken #DeutscheAnimation
 ```
 
 ---

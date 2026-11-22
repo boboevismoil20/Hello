@@ -61,4 +61,4 @@ Würdest du die Blasen über deinen Eltern sehen wollen? JA oder NEIN? 👇
 
 ## Теги (поле «Теги» в YouTube Studio)
 
-was wäre wenn, was wäre wenn animation, eltern, vater, papa, vater sohn, unausgesprochene worte, ich bin stolz auf dich, danke papa, geschichte animiert, emotionale geschichte, stickman animation deutsch
+was wäre wenn, was wäre wenn familie, vater sohn, ich bin stolz auf dich, papa, vater, familie, unausgesprochene worte, geschichten zum nachdenken, kurzgeschichten für erwachsene, emotionale geschichte, geschichte, nachdenken, animation, was wäre wenn animation, stickman animation deutsch, axt
